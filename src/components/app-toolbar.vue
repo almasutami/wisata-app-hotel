@@ -4,29 +4,30 @@ const hotelData = hotelDetails;
 </script>
 
 <template>
-  <div class="toolbar">
-    <div class="toolbar-container">
-      <img alt="Vue logo" src="../assets/logo.png" class="toolbar-logo" />
-      <div class="searchbar-container">
-        <div class="search-input">
-          <font-awesome-icon icon="fa-solid fa-search" class="search-icon" />
-          <div>{{ hotelData?.name }}</div>
-          <div>{{ hotelData?.name }}</div>
+  <div class="toolbar-container">
+    <img alt="Vue logo" src="../assets/logo.png" class="toolbar-logo" />
+    <div class="searchbar-container">
+      <div class="search-input">
+        <div class="search-input-group">
+          <font-awesome-icon
+            icon="fa-solid fa-search"
+            size="xs"
+            class="search-icon"
+          />
+          <div class="truncated">{{ hotelData?.name }}</div>
+          <div>·</div>
+          <div>25 - 26 Jun</div>
         </div>
       </div>
-      <button class="button">Sign in</button>
     </div>
+    <button class="button">Sign in</button>
   </div>
 </template>
 
 <style>
-.toolbar {
-  padding: 4px 0px;
-  height: 64px;
-}
-
 .toolbar-container {
   padding: 8px 16px;
+  height: 48px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -38,55 +39,72 @@ const hotelData = hotelDetails;
 }
 
 .searchbar-container {
-  width: 590px;
   display: flex;
   flex-direction: row;
   align-items: center;
-}
-
-.search-icon {
-  margin-right: 8px;
-  color: #888;
-}
-
-.search-input {
   margin-left: 24px;
   margin-right: 24px;
-  height: 40px;
-  width: 80%;
-  padding: 0 16px;
-  background-color: #f5f5f5;
-  font-size: 0.875rem;
-  box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.2), 0 0 0 0 rgba(0, 0, 0, 0.14),
-    0 0 0 0 rgba(0, 0, 0, 0.12) !important;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
+}
+
+.search-icon {
+  size: 11px;
+}
+
+.search-input {
+  height: 40px;
+  width: 558px;
+  padding: 0 16px;
+  background-color: #f5f5f5;
+  font-size: 0.875rem;
   border: none;
   border-radius: 4px;
   outline: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .toolbar-logo {
+    display: none;
+  }
+
+  .search-input {
+    width: 70%;
+    margin: 0;
+  }
+
+  .searchbar-container {
+    margin: 0;
+  }
+}
+
+.truncated {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.search-input-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  font-weight: 500;
+  text-transform: none;
+  width: 100%;
+  gap: 8px;
 }
 
 .search-input:hover {
   cursor: pointer;
   background-color: #ede8e8;
-}
-
-.button {
-  height: 36px;
-  min-width: 64px;
-  padding: 0 16px;
-  font-size: 0.875rem;
-  background-color: #1a73e8 !important;
-  border: none;
-  align-items: center;
-  border-radius: 4px;
-  display: inline-flex;
-  font-weight: 500;
-  justify-content: center;
-  outline: 0;
-  text-decoration: none;
-  color: #ffffff;
 }
 </style>
