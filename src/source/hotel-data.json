@@ -24,8 +24,8 @@
   "image_list": null,
   "important_info_data": null,
   "general_info_data": null,
-  "room": {
-    "314214047": {
+  "room": [
+    {
       "id": "314214047",
       "area": {
         "square_feet": 452,
@@ -319,7 +319,7 @@
         "overview": "<p><strong>1 King Bed</strong></p><p>452 sq feet </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 40-inch Smart TV with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and separate shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and phone; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Fresh bed sheets (on request), fresh towels (on request), and air conditioning</p><p>Non-Smoking</p>"
       }
     },
-    "314214049": {
+    {
       "id": "314214049",
       "area": {
         "square_feet": 484,
@@ -577,6 +577,10 @@
         "1073744831": {
           "id": "1073744831",
           "name": "Change of bed sheets (on request)"
+        },
+        "99999": {
+          "id": "99999",
+          "name": "Free breakfast"
         }
       },
       "occupancy": {
@@ -613,7 +617,7 @@
         "overview": "<p><strong>1 King Bed</strong></p><p>484 sq feet </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 40-inch Smart TV with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and separate shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and phone; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Fresh bed sheets (on request), fresh towels (on request), and air conditioning</p><p>Non-Smoking</p>"
       }
     },
-    "314214051": {
+    {
       "id": "314214051",
       "name": "Deluxe Twin Room (Skyline)",
       "images": [
@@ -913,6 +917,10 @@
         "1073744831": {
           "id": "1073744831",
           "name": "Change of bed sheets (on request)"
+        },
+        "9999": {
+          "id": "9999",
+          "name": "Free cancellation"
         }
       },
       "occupancy": {
@@ -949,7 +957,7 @@
         "overview": "<p><strong>2 Twin Beds</strong></p><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 40-inch Smart TV with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and separate shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and phone; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Fresh bed sheets (on request), fresh towels (on request), and air conditioning</p><p>Non-Smoking</p>"
       }
     },
-    "314214053": {
+    {
       "id": "314214053",
       "area": {
         "square_feet": 538,
@@ -1345,6 +1353,14 @@
         "1073744831": {
           "id": "1073744831",
           "name": "Change of bed sheets (on request)"
+        },
+        "99999": {
+          "id": "99999",
+          "name": "Free breakfast"
+        },
+        "9999": {
+          "id": "9999",
+          "name": "Free cancellation"
         }
       },
       "occupancy": {
@@ -1381,7 +1397,7 @@
         "overview": "<p><strong>1 King Bed</strong></p><p>538 sq feet </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 40-inch Smart TV with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and separate shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and phone; free cribs/infant beds available on request</p><p><b>Comfort</b> - Fresh bed sheets (on request), fresh towels (on request), and air conditioning</p><p><b>Need to Know</b> - No rollaway/extra beds available</p><p>Non-Smoking</p>"
       }
     },
-    "314214054": {
+    {
       "id": "314214054",
       "area": {
         "square_feet": 1173,
@@ -1706,7 +1722,7 @@
         "overview": "<p><strong>1 King Bed</strong></p><p>1173 sq feet </p><br/><p><b>Layout</b> - Bedroom, living room, and dining area</p><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 40-inch Smart TV with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), free bottled water, and dining table</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and separate shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and phone; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Fresh bed sheets (on request), fresh towels (on request), and air conditioning</p><p>Non-Smoking</p>"
       }
     },
-    "315454705": {
+    {
       "id": "315454705",
       "area": {
         "square_feet": 484,
@@ -1964,6 +1980,10 @@
         "1073744831": {
           "id": "1073744831",
           "name": "Change of bed sheets (on request)"
+        },
+        "99999": {
+          "id": "99999",
+          "name": "Free breakfast"
         }
       },
       "occupancy": {
@@ -2000,7 +2020,7 @@
         "overview": "<p><strong>1 King Bed</strong></p><p>484 sq feet </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 40-inch Smart TV with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and separate shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and phone; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Fresh bed sheets (on request), fresh towels (on request), and air conditioning</p><p>Non-Smoking</p>"
       }
     },
-    "315454706": {
+    {
       "id": "315454706",
       "name": "Deluxe Twin Room (Cityscape)",
       "images": [
@@ -2254,6 +2274,10 @@
         "1073744831": {
           "id": "1073744831",
           "name": "Change of bed sheets (on request)"
+        },
+        "9999": {
+          "id": "9999",
+          "name": "Free cancellation"
         }
       },
       "occupancy": {
@@ -2290,7 +2314,7 @@
         "overview": "<p><strong>2 Twin Beds</strong></p><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 40-inch Smart TV with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and separate shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and phone; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Fresh bed sheets (on request), fresh towels (on request), and air conditioning</p><p>Non-Smoking</p>"
       }
     },
-    "315454707": {
+    {
       "id": "315454707",
       "area": {
         "square_feet": 538,
@@ -2663,6 +2687,14 @@
         "1073744831": {
           "id": "1073744831",
           "name": "Change of bed sheets (on request)"
+        },
+        "99999": {
+          "id": "99999",
+          "name": "Free breakfast"
+        },
+        "9999": {
+          "id": "9999",
+          "name": "Free cancellation"
         }
       },
       "occupancy": {
@@ -2699,5 +2731,5 @@
         "overview": "<p><strong>1 King Bed</strong></p><p>538 sq feet </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 40-inch Smart TV with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and separate shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and phone; free cribs/infant beds available on request</p><p><b>Comfort</b> - Fresh bed sheets (on request), fresh towels (on request), and air conditioning</p><p><b>Need to Know</b> - No rollaway/extra beds available</p><p>Non-Smoking</p>"
       }
     }
-  }
+  ]
 }

@@ -69,8 +69,7 @@ const props = defineProps({
 }
 
 .hotel-primary-photo {
-  border-bottom: 1px solid #e0e0e0;
-  padding: 0 14px 0 16px;
+  padding: 0 16px 0 16px;
   width: 168px;
   height: 168px;
   object-fit: cover;
