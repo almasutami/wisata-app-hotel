@@ -26,4 +26,9 @@ const hotelData = hotelDetails;
 .hotel-details-container {
   padding: 12px 16px;
 }
+@media only screen and (max-width: 600px) {
+  .hotel-details-container {
+    padding: 4px 8px;
+  }
+}
 </style>

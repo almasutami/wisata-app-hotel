@@ -16,7 +16,7 @@ const hotelData = hotelDetails;
           />
           <div class="truncated">{{ hotelData?.name }}</div>
           <div>·</div>
-          <div>25 - 26 Jun</div>
+          <div class="truncated">25 - 26 Jun</div>
         </div>
       </div>
     </div>
@@ -106,5 +106,10 @@ const hotelData = hotelDetails;
 .search-input:hover {
   cursor: pointer;
   background-color: #ede8e8;
+}
+@media only screen and (max-width: 600px) {
+  .earch-input-group {
+    font-size: 12px;
+  }
 }
 </style>

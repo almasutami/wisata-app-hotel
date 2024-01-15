@@ -57,6 +57,14 @@ html {
   text-decoration: none;
   color: #ffffff;
 }
+@media only screen and (max-width: 600px) {
+  .button {
+    height: 24px;
+    min-width: 64px;
+    padding: 0 12px;
+    font-size: 12px;
+  }
+}
 .secondary {
   color: rgba(0, 0, 0, 0.6) !important;
 }

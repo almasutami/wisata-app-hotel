@@ -175,10 +175,19 @@ const props = defineProps({
     height: 91px;
   }
   .details-container {
-    padding: 12px;
+    padding: 12px !important;
+    font-size: 12px !important;
   }
   .hotel-title-desktop {
     display: none;
+  }
+  .hotel-title-small {
+    font-weight: 500 !important;
+    padding: 4px 12px;
+    font-size: 16px !important;
+  }
+  .hotel-header-container-details {
+    align-items: center;
   }
 }
 @media only screen and (min-width: 600px) {

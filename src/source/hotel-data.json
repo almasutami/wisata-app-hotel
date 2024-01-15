@@ -577,10 +577,6 @@
         "1073744831": {
           "id": "1073744831",
           "name": "Change of bed sheets (on request)"
-        },
-        "99999": {
-          "id": "99999",
-          "name": "Free breakfast"
         }
       },
       "occupancy": {
@@ -917,10 +913,6 @@
         "1073744831": {
           "id": "1073744831",
           "name": "Change of bed sheets (on request)"
-        },
-        "9999": {
-          "id": "9999",
-          "name": "Free cancellation"
         }
       },
       "occupancy": {
@@ -1353,14 +1345,6 @@
         "1073744831": {
           "id": "1073744831",
           "name": "Change of bed sheets (on request)"
-        },
-        "99999": {
-          "id": "99999",
-          "name": "Free breakfast"
-        },
-        "9999": {
-          "id": "9999",
-          "name": "Free cancellation"
         }
       },
       "occupancy": {
@@ -1980,10 +1964,6 @@
         "1073744831": {
           "id": "1073744831",
           "name": "Change of bed sheets (on request)"
-        },
-        "99999": {
-          "id": "99999",
-          "name": "Free breakfast"
         }
       },
       "occupancy": {
@@ -2274,10 +2254,6 @@
         "1073744831": {
           "id": "1073744831",
           "name": "Change of bed sheets (on request)"
-        },
-        "9999": {
-          "id": "9999",
-          "name": "Free cancellation"
         }
       },
       "occupancy": {
@@ -2687,14 +2663,6 @@
         "1073744831": {
           "id": "1073744831",
           "name": "Change of bed sheets (on request)"
-        },
-        "99999": {
-          "id": "99999",
-          "name": "Free breakfast"
-        },
-        "9999": {
-          "id": "9999",
-          "name": "Free cancellation"
         }
       },
       "occupancy": {

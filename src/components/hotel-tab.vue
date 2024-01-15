@@ -8,7 +8,7 @@ const tabs = [
   },
   {
     name: "PHOTOS",
-    icon: "fa-solid fa-camera",
+    icon: "fa-solid fa-table-cells",
   },
   {
     name: "INFO",
@@ -23,7 +23,7 @@ const selectTab = (index) => {
 </script>
 
 <template>
-  <div class="container">
+  <div class="tab-container">
     <div class="tab-menu">
       <div
         v-for="(tab, index) in tabs"
@@ -45,17 +45,19 @@ const selectTab = (index) => {
 
 <style scoped>
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
-.container {
+.tab-container {
   font-size: 12px;
 }
 
 .tab-menu {
   display: flex;
   justify-content: center;
+  align-items: center;
   border-top: 2px solid #e0e0e0;
   padding-left: 12px;
   padding-right: 12px;
   font-weight: 500 !important;
+  gap: 8px;
   font-family: Roboto, BlinkMacSystemFont, sans-serif !important;
 }
 
@@ -76,7 +78,7 @@ const selectTab = (index) => {
 }
 .tab-menu > div.active {
   color: #007bff;
-  box-shadow: 0 -1px 0 #007bff;
+  box-shadow: none;
   border-top: #007bff 2px solid;
   z-index: 3;
 }

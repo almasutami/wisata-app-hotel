@@ -4,12 +4,12 @@ import { ref, defineEmits } from "vue";
 const filters = [
   {
     name: "Free Breakfast",
-    value: "99999",
+    value: "BB",
     icon: "fa-solid fa-utensils",
   },
   {
     name: "Free Cancellation",
-    value: "9999",
+    value: "FC",
     icon: "fa-solid fa-credit-card",
   },
 ];
@@ -32,19 +32,17 @@ const selectFilter = (index) => {
 </script>
 
 <template>
-  <div class="container">
+  <div class="filter-container">
     <div class="filter-menu">
       <div class="filter-title">
-        <font-awesome-icon
-          icon="fa-solid fa-filter"
-          size="md"
-          class="search-icon"
-        />Filter rooms by
+        <font-awesome-icon icon="fa-solid fa-filter" />Filter rooms by
       </div>
       <div class="filter-clear" v-if="selectedIndex?.length > 0">
         <div>Clear all</div>
         <div class="filter-circle">{{ selectedIndex?.length }}</div>
       </div>
+    </div>
+    <div class="filter-menu">
       <div
         v-for="(filter, index) in filters"
         :key="index"
@@ -52,11 +50,7 @@ const selectFilter = (index) => {
         :class="{ active: selectedIndex.includes(index) }"
       >
         <div class="filter">
-          <font-awesome-icon
-            :icon="filter?.icon"
-            size="md"
-            class="search-icon"
-          />{{ filter?.name }}
+          <font-awesome-icon :icon="filter?.icon" />{{ filter?.name }}
         </div>
       </div>
     </div>
@@ -64,7 +58,7 @@ const selectFilter = (index) => {
 </template>
 
 <style scoped>
-.container {
+.filter-container {
   font-size: 14px;
 }
 
@@ -76,6 +70,7 @@ const selectFilter = (index) => {
   padding-top: 12px;
   padding-bottom: 12px;
   gap: 8px;
+  min-width: 200px;
 }
 
 .filter-menu > div {
@@ -127,5 +122,15 @@ const selectFilter = (index) => {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+@media screen and (max-width: 600px) {
+  .filter-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .filter-menu {
+    padding: 4px 8px;
+  }
 }
 </style>
