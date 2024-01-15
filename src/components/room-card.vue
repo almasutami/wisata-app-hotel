@@ -1,6 +1,4 @@
-<script setup>
-import RoomCard from "../components/room-card.vue";
-</script>
+<script setup></script>
 
 <template>
   <div>

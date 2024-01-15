@@ -1,0 +1,2703 @@
+{
+  "id": 9001948244,
+  "location_type": "property",
+  "name": "The Langham, Jakarta",
+  "name_suffix": "Jakarta, Indonesia",
+  "country_code": "ID",
+  "slug": "the-langham-jakarta-9001948244",
+  "catalog_data": {
+    "brand": "Langham Hotels",
+    "chain": "Langham Hotels",
+    "phone": "62-2127087888",
+    "address": "District 8 SCBD Lot 28, Jakarta, Indonesia",
+    "category": "Hotel",
+    "headline": "Business, romantic, city hotel with spa, shopping facilities in Jakarta (Senayan)",
+    "latitude": -6.227135,
+    "longitude": 106.806547,
+    "hero_image": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_b.jpg",
+    "star_rating": null,
+    "address_full": "District 8 SCBD Lot 28, Jakarta, Indonesia",
+    "address_line": "District 8 SCBD Lot 28",
+    "review_count": 17,
+    "review_rating": 94
+  },
+  "image_list": null,
+  "important_info_data": null,
+  "general_info_data": null,
+  "room": {
+    "314214047": {
+      "id": "314214047",
+      "area": {
+        "square_feet": 452,
+        "square_meters": 42
+      },
+      "name": "Deluxe Room, 1 King Bed",
+      "images": [
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": true
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Bathroom",
+          "category": 23000,
+          "hero_image": false
+        }
+      ],
+      "amenities": {
+        "1": {
+          "id": "1",
+          "name": "Air conditioning",
+          "categories": ["air_conditioning"]
+        },
+        "26": {
+          "id": "26",
+          "name": "Television"
+        },
+        "131": {
+          "id": "131",
+          "name": "Minibar"
+        },
+        "132": {
+          "id": "132",
+          "name": "Coffee/tea maker"
+        },
+        "133": {
+          "id": "133",
+          "name": "Daily housekeeping"
+        },
+        "135": {
+          "id": "135",
+          "name": "Hypo-allergenic bedding available"
+        },
+        "136": {
+          "id": "136",
+          "name": "Phone"
+        },
+        "141": {
+          "id": "141",
+          "name": "Private bathroom"
+        },
+        "142": {
+          "id": "142",
+          "name": "Bathrobes"
+        },
+        "144": {
+          "id": "144",
+          "name": "Hair dryer"
+        },
+        "145": {
+          "id": "145",
+          "name": "Iron/ironing board"
+        },
+        "146": {
+          "id": "146",
+          "name": "In-room safe"
+        },
+        "2034": {
+          "id": "2034",
+          "name": "Premium bedding"
+        },
+        "2056": {
+          "id": "2056",
+          "name": "Turndown service"
+        },
+        "2057": {
+          "id": "2057",
+          "name": "Free bottled water"
+        },
+        "2081": {
+          "id": "2081",
+          "name": "Premium TV channels"
+        },
+        "2150": {
+          "id": "2150",
+          "name": "Blackout drapes/curtains"
+        },
+        "2162": {
+          "id": "2162",
+          "name": "Slippers"
+        },
+        "2170": {
+          "id": "2170",
+          "name": "Separate bathtub and shower"
+        },
+        "2397": {
+          "id": "2397",
+          "name": "Digital TV service"
+        },
+        "2403": {
+          "id": "2403",
+          "name": "Free WiFi",
+          "categories": ["free_wifi", "wifi"]
+        },
+        "2579": {
+          "id": "2579",
+          "name": "TV size: 40",
+          "value": "40"
+        },
+        "2580": {
+          "id": "2580",
+          "name": "TV size measurement: inch",
+          "value": "inch"
+        },
+        "3501": {
+          "id": "3501",
+          "name": "Deep soaking bathtub"
+        },
+        "3502": {
+          "id": "3502",
+          "name": "Rainfall showerhead"
+        },
+        "4951": {
+          "id": "4951",
+          "name": "Free cribs/infant beds",
+          "categories": ["crib"]
+        },
+        "6176": {
+          "id": "6176",
+          "name": "Non-Smoking"
+        },
+        "1073742816": {
+          "id": "1073742816",
+          "name": "Rollaway/extra beds (surcharge)"
+        },
+        "1073743370": {
+          "id": "1073743370",
+          "name": "Towels provided"
+        },
+        "1073743371": {
+          "id": "1073743371",
+          "name": "Bedsheets provided"
+        },
+        "1073743569": {
+          "id": "1073743569",
+          "name": "Smart TV"
+        },
+        "1073744201": {
+          "id": "1073744201",
+          "name": "Soap"
+        },
+        "1073744202": {
+          "id": "1073744202",
+          "name": "Shampoo"
+        },
+        "1073744203": {
+          "id": "1073744203",
+          "name": "Toilet paper"
+        },
+        "1073744706": {
+          "id": "1073744706",
+          "name": "Wardrobe or closet"
+        },
+        "1073744764": {
+          "id": "1073744764",
+          "name": "Toothbrush and toothpaste available"
+        },
+        "1073744828": {
+          "id": "1073744828",
+          "name": "Change of towels (on request)"
+        },
+        "1073744831": {
+          "id": "1073744831",
+          "name": "Change of bed sheets (on request)"
+        }
+      },
+      "occupancy": {
+        "max_allowed": {
+          "total": 3,
+          "adults": 2,
+          "children": 1
+        },
+        "age_categories": {
+          "Adult": {
+            "name": "Adult",
+            "minimum_age": 12
+          },
+          "ChildAgeA": {
+            "name": "ChildAgeA",
+            "minimum_age": 0
+          }
+        }
+      },
+      "bed_groups": {
+        "37321": {
+          "id": "37321",
+          "description": "1 King Bed",
+          "configuration": [
+            {
+              "size": "King",
+              "type": "KingBed",
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "descriptions": {
+        "overview": "<p><strong>1 King Bed</strong></p><p>452 sq feet </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 40-inch Smart TV with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and separate shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and phone; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Fresh bed sheets (on request), fresh towels (on request), and air conditioning</p><p>Non-Smoking</p>"
+      }
+    },
+    "314214049": {
+      "id": "314214049",
+      "area": {
+        "square_feet": 484,
+        "square_meters": 45
+      },
+      "name": "Deluxe Room, 1 King Bed (Skyline)",
+      "images": [
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": true
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Bathroom",
+          "category": 23000,
+          "hero_image": false
+        }
+      ],
+      "amenities": {
+        "1": {
+          "id": "1",
+          "name": "Air conditioning",
+          "categories": ["air_conditioning"]
+        },
+        "26": {
+          "id": "26",
+          "name": "Television"
+        },
+        "131": {
+          "id": "131",
+          "name": "Minibar"
+        },
+        "132": {
+          "id": "132",
+          "name": "Coffee/tea maker"
+        },
+        "133": {
+          "id": "133",
+          "name": "Daily housekeeping"
+        },
+        "135": {
+          "id": "135",
+          "name": "Hypo-allergenic bedding available"
+        },
+        "136": {
+          "id": "136",
+          "name": "Phone"
+        },
+        "141": {
+          "id": "141",
+          "name": "Private bathroom"
+        },
+        "142": {
+          "id": "142",
+          "name": "Bathrobes"
+        },
+        "144": {
+          "id": "144",
+          "name": "Hair dryer"
+        },
+        "145": {
+          "id": "145",
+          "name": "Iron/ironing board"
+        },
+        "146": {
+          "id": "146",
+          "name": "In-room safe"
+        },
+        "2034": {
+          "id": "2034",
+          "name": "Premium bedding"
+        },
+        "2056": {
+          "id": "2056",
+          "name": "Turndown service"
+        },
+        "2057": {
+          "id": "2057",
+          "name": "Free bottled water"
+        },
+        "2081": {
+          "id": "2081",
+          "name": "Premium TV channels"
+        },
+        "2150": {
+          "id": "2150",
+          "name": "Blackout drapes/curtains"
+        },
+        "2162": {
+          "id": "2162",
+          "name": "Slippers"
+        },
+        "2170": {
+          "id": "2170",
+          "name": "Separate bathtub and shower"
+        },
+        "2397": {
+          "id": "2397",
+          "name": "Digital TV service"
+        },
+        "2403": {
+          "id": "2403",
+          "name": "Free WiFi",
+          "categories": ["free_wifi", "wifi"]
+        },
+        "2579": {
+          "id": "2579",
+          "name": "TV size: 40",
+          "value": "40"
+        },
+        "2580": {
+          "id": "2580",
+          "name": "TV size measurement: inch",
+          "value": "inch"
+        },
+        "3501": {
+          "id": "3501",
+          "name": "Deep soaking bathtub"
+        },
+        "3502": {
+          "id": "3502",
+          "name": "Rainfall showerhead"
+        },
+        "4951": {
+          "id": "4951",
+          "name": "Free cribs/infant beds",
+          "categories": ["crib"]
+        },
+        "6176": {
+          "id": "6176",
+          "name": "Non-Smoking"
+        },
+        "1073742816": {
+          "id": "1073742816",
+          "name": "Rollaway/extra beds (surcharge)"
+        },
+        "1073743370": {
+          "id": "1073743370",
+          "name": "Towels provided"
+        },
+        "1073743371": {
+          "id": "1073743371",
+          "name": "Bedsheets provided"
+        },
+        "1073743569": {
+          "id": "1073743569",
+          "name": "Smart TV"
+        },
+        "1073744201": {
+          "id": "1073744201",
+          "name": "Soap"
+        },
+        "1073744202": {
+          "id": "1073744202",
+          "name": "Shampoo"
+        },
+        "1073744203": {
+          "id": "1073744203",
+          "name": "Toilet paper"
+        },
+        "1073744706": {
+          "id": "1073744706",
+          "name": "Wardrobe or closet"
+        },
+        "1073744764": {
+          "id": "1073744764",
+          "name": "Toothbrush and toothpaste available"
+        },
+        "1073744828": {
+          "id": "1073744828",
+          "name": "Change of towels (on request)"
+        },
+        "1073744831": {
+          "id": "1073744831",
+          "name": "Change of bed sheets (on request)"
+        }
+      },
+      "occupancy": {
+        "max_allowed": {
+          "total": 3,
+          "adults": 2,
+          "children": 1
+        },
+        "age_categories": {
+          "Adult": {
+            "name": "Adult",
+            "minimum_age": 12
+          },
+          "ChildAgeA": {
+            "name": "ChildAgeA",
+            "minimum_age": 0
+          }
+        }
+      },
+      "bed_groups": {
+        "37321": {
+          "id": "37321",
+          "description": "1 King Bed",
+          "configuration": [
+            {
+              "size": "King",
+              "type": "KingBed",
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "descriptions": {
+        "overview": "<p><strong>1 King Bed</strong></p><p>484 sq feet </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 40-inch Smart TV with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and separate shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and phone; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Fresh bed sheets (on request), fresh towels (on request), and air conditioning</p><p>Non-Smoking</p>"
+      }
+    },
+    "314214051": {
+      "id": "314214051",
+      "name": "Deluxe Twin Room (Skyline)",
+      "images": [
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b3f3dfca_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b3f3dfca_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b3f3dfca_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b3f3dfca_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": true
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/2ae336f4_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/2ae336f4_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/2ae336f4_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/2ae336f4_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/d4016577_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/d4016577_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/d4016577_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/d4016577_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Bathroom",
+          "category": 23000,
+          "hero_image": false
+        }
+      ],
+      "amenities": {
+        "1": {
+          "id": "1",
+          "name": "Air conditioning",
+          "categories": ["air_conditioning"]
+        },
+        "26": {
+          "id": "26",
+          "name": "Television"
+        },
+        "131": {
+          "id": "131",
+          "name": "Minibar"
+        },
+        "132": {
+          "id": "132",
+          "name": "Coffee/tea maker"
+        },
+        "133": {
+          "id": "133",
+          "name": "Daily housekeeping"
+        },
+        "135": {
+          "id": "135",
+          "name": "Hypo-allergenic bedding available"
+        },
+        "136": {
+          "id": "136",
+          "name": "Phone"
+        },
+        "141": {
+          "id": "141",
+          "name": "Private bathroom"
+        },
+        "142": {
+          "id": "142",
+          "name": "Bathrobes"
+        },
+        "144": {
+          "id": "144",
+          "name": "Hair dryer"
+        },
+        "145": {
+          "id": "145",
+          "name": "Iron/ironing board"
+        },
+        "146": {
+          "id": "146",
+          "name": "In-room safe"
+        },
+        "2034": {
+          "id": "2034",
+          "name": "Premium bedding"
+        },
+        "2056": {
+          "id": "2056",
+          "name": "Turndown service"
+        },
+        "2057": {
+          "id": "2057",
+          "name": "Free bottled water"
+        },
+        "2081": {
+          "id": "2081",
+          "name": "Premium TV channels"
+        },
+        "2150": {
+          "id": "2150",
+          "name": "Blackout drapes/curtains"
+        },
+        "2162": {
+          "id": "2162",
+          "name": "Slippers"
+        },
+        "2170": {
+          "id": "2170",
+          "name": "Separate bathtub and shower"
+        },
+        "2397": {
+          "id": "2397",
+          "name": "Digital TV service"
+        },
+        "2403": {
+          "id": "2403",
+          "name": "Free WiFi",
+          "categories": ["free_wifi", "wifi"]
+        },
+        "2579": {
+          "id": "2579",
+          "name": "TV size: 40",
+          "value": "40"
+        },
+        "2580": {
+          "id": "2580",
+          "name": "TV size measurement: inch",
+          "value": "inch"
+        },
+        "3501": {
+          "id": "3501",
+          "name": "Deep soaking bathtub"
+        },
+        "3502": {
+          "id": "3502",
+          "name": "Rainfall showerhead"
+        },
+        "4951": {
+          "id": "4951",
+          "name": "Free cribs/infant beds",
+          "categories": ["crib"]
+        },
+        "6176": {
+          "id": "6176",
+          "name": "Non-Smoking"
+        },
+        "1073742816": {
+          "id": "1073742816",
+          "name": "Rollaway/extra beds (surcharge)"
+        },
+        "1073743370": {
+          "id": "1073743370",
+          "name": "Towels provided"
+        },
+        "1073743371": {
+          "id": "1073743371",
+          "name": "Bedsheets provided"
+        },
+        "1073743569": {
+          "id": "1073743569",
+          "name": "Smart TV"
+        },
+        "1073744201": {
+          "id": "1073744201",
+          "name": "Soap"
+        },
+        "1073744202": {
+          "id": "1073744202",
+          "name": "Shampoo"
+        },
+        "1073744203": {
+          "id": "1073744203",
+          "name": "Toilet paper"
+        },
+        "1073744706": {
+          "id": "1073744706",
+          "name": "Wardrobe or closet"
+        },
+        "1073744764": {
+          "id": "1073744764",
+          "name": "Toothbrush and toothpaste available"
+        },
+        "1073744828": {
+          "id": "1073744828",
+          "name": "Change of towels (on request)"
+        },
+        "1073744831": {
+          "id": "1073744831",
+          "name": "Change of bed sheets (on request)"
+        }
+      },
+      "occupancy": {
+        "max_allowed": {
+          "total": 3,
+          "adults": 2,
+          "children": 1
+        },
+        "age_categories": {
+          "Adult": {
+            "name": "Adult",
+            "minimum_age": 12
+          },
+          "ChildAgeA": {
+            "name": "ChildAgeA",
+            "minimum_age": 0
+          }
+        }
+      },
+      "bed_groups": {
+        "37341": {
+          "id": "37341",
+          "description": "2 Twin Beds",
+          "configuration": [
+            {
+              "size": "Twin",
+              "type": "TwinBed",
+              "quantity": 2
+            }
+          ]
+        }
+      },
+      "descriptions": {
+        "overview": "<p><strong>2 Twin Beds</strong></p><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 40-inch Smart TV with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and separate shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and phone; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Fresh bed sheets (on request), fresh towels (on request), and air conditioning</p><p>Non-Smoking</p>"
+      }
+    },
+    "314214053": {
+      "id": "314214053",
+      "area": {
+        "square_feet": 538,
+        "square_meters": 50
+      },
+      "name": "Executive Room, 1 King Bed",
+      "images": [
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Primary image",
+          "category": 3,
+          "hero_image": true
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b97edec2_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b97edec2_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b97edec2_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b97edec2_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/19727217_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/19727217_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/19727217_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/19727217_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Bathroom",
+          "category": 23000,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4afdbc12_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4afdbc12_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4afdbc12_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4afdbc12_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Bathroom",
+          "category": 23000,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/f67426df_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/f67426df_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/f67426df_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/f67426df_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Bathroom",
+          "category": 23000,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Executive lounge",
+          "category": 83013,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Executive lounge",
+          "category": 83013,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Executive lounge",
+          "category": 83013,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Executive lounge",
+          "category": 83013,
+          "hero_image": false
+        }
+      ],
+      "amenities": {
+        "1": {
+          "id": "1",
+          "name": "Air conditioning",
+          "categories": ["air_conditioning"]
+        },
+        "26": {
+          "id": "26",
+          "name": "Television"
+        },
+        "131": {
+          "id": "131",
+          "name": "Minibar"
+        },
+        "132": {
+          "id": "132",
+          "name": "Coffee/tea maker"
+        },
+        "133": {
+          "id": "133",
+          "name": "Daily housekeeping"
+        },
+        "135": {
+          "id": "135",
+          "name": "Hypo-allergenic bedding available"
+        },
+        "136": {
+          "id": "136",
+          "name": "Phone"
+        },
+        "141": {
+          "id": "141",
+          "name": "Private bathroom"
+        },
+        "142": {
+          "id": "142",
+          "name": "Bathrobes"
+        },
+        "144": {
+          "id": "144",
+          "name": "Hair dryer"
+        },
+        "145": {
+          "id": "145",
+          "name": "Iron/ironing board"
+        },
+        "146": {
+          "id": "146",
+          "name": "In-room safe"
+        },
+        "2034": {
+          "id": "2034",
+          "name": "Premium bedding"
+        },
+        "2056": {
+          "id": "2056",
+          "name": "Turndown service"
+        },
+        "2057": {
+          "id": "2057",
+          "name": "Free bottled water"
+        },
+        "2081": {
+          "id": "2081",
+          "name": "Premium TV channels"
+        },
+        "2150": {
+          "id": "2150",
+          "name": "Blackout drapes/curtains"
+        },
+        "2162": {
+          "id": "2162",
+          "name": "Slippers"
+        },
+        "2170": {
+          "id": "2170",
+          "name": "Separate bathtub and shower"
+        },
+        "2397": {
+          "id": "2397",
+          "name": "Digital TV service"
+        },
+        "2403": {
+          "id": "2403",
+          "name": "Free WiFi",
+          "categories": ["free_wifi", "wifi"]
+        },
+        "2579": {
+          "id": "2579",
+          "name": "TV size: 40",
+          "value": "40"
+        },
+        "2580": {
+          "id": "2580",
+          "name": "TV size measurement: inch",
+          "value": "inch"
+        },
+        "3501": {
+          "id": "3501",
+          "name": "Deep soaking bathtub"
+        },
+        "3502": {
+          "id": "3502",
+          "name": "Rainfall showerhead"
+        },
+        "4642": {
+          "id": "4642",
+          "name": "No rollaway/extra beds"
+        },
+        "4951": {
+          "id": "4951",
+          "name": "Free cribs/infant beds",
+          "categories": ["crib"]
+        },
+        "6176": {
+          "id": "6176",
+          "name": "Non-Smoking"
+        },
+        "1073743370": {
+          "id": "1073743370",
+          "name": "Towels provided"
+        },
+        "1073743371": {
+          "id": "1073743371",
+          "name": "Bedsheets provided"
+        },
+        "1073743569": {
+          "id": "1073743569",
+          "name": "Smart TV"
+        },
+        "1073744201": {
+          "id": "1073744201",
+          "name": "Soap"
+        },
+        "1073744202": {
+          "id": "1073744202",
+          "name": "Shampoo"
+        },
+        "1073744203": {
+          "id": "1073744203",
+          "name": "Toilet paper"
+        },
+        "1073744706": {
+          "id": "1073744706",
+          "name": "Wardrobe or closet"
+        },
+        "1073744764": {
+          "id": "1073744764",
+          "name": "Toothbrush and toothpaste available"
+        },
+        "1073744828": {
+          "id": "1073744828",
+          "name": "Change of towels (on request)"
+        },
+        "1073744831": {
+          "id": "1073744831",
+          "name": "Change of bed sheets (on request)"
+        }
+      },
+      "occupancy": {
+        "max_allowed": {
+          "total": 3,
+          "adults": 2,
+          "children": 1
+        },
+        "age_categories": {
+          "Adult": {
+            "name": "Adult",
+            "minimum_age": 12
+          },
+          "ChildAgeA": {
+            "name": "ChildAgeA",
+            "minimum_age": 0
+          }
+        }
+      },
+      "bed_groups": {
+        "37321": {
+          "id": "37321",
+          "description": "1 King Bed",
+          "configuration": [
+            {
+              "size": "King",
+              "type": "KingBed",
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "descriptions": {
+        "overview": "<p><strong>1 King Bed</strong></p><p>538 sq feet </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 40-inch Smart TV with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and separate shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and phone; free cribs/infant beds available on request</p><p><b>Comfort</b> - Fresh bed sheets (on request), fresh towels (on request), and air conditioning</p><p><b>Need to Know</b> - No rollaway/extra beds available</p><p>Non-Smoking</p>"
+      }
+    },
+    "314214054": {
+      "id": "314214054",
+      "area": {
+        "square_feet": 1173,
+        "square_meters": 109
+      },
+      "name": "Suite, 1 Bedroom (Langham)",
+      "images": [
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b82524c9_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b82524c9_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b82524c9_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b82524c9_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": true
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/9c1100a2_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/9c1100a2_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/9c1100a2_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/9c1100a2_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7047h4027x0y0-8a1e75e4_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7047h4027x0y0-8a1e75e4_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7047h4027x0y0-8a1e75e4_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7047h4027x0y0-8a1e75e4_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4c3a2246_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4c3a2246_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4c3a2246_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4c3a2246_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Bathroom",
+          "category": 23000,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Executive lounge",
+          "category": 83013,
+          "hero_image": false
+        }
+      ],
+      "amenities": {
+        "1": {
+          "id": "1",
+          "name": "Air conditioning",
+          "categories": ["air_conditioning"]
+        },
+        "26": {
+          "id": "26",
+          "name": "Television"
+        },
+        "131": {
+          "id": "131",
+          "name": "Minibar"
+        },
+        "132": {
+          "id": "132",
+          "name": "Coffee/tea maker"
+        },
+        "133": {
+          "id": "133",
+          "name": "Daily housekeeping"
+        },
+        "135": {
+          "id": "135",
+          "name": "Hypo-allergenic bedding available"
+        },
+        "136": {
+          "id": "136",
+          "name": "Phone"
+        },
+        "141": {
+          "id": "141",
+          "name": "Private bathroom"
+        },
+        "142": {
+          "id": "142",
+          "name": "Bathrobes"
+        },
+        "144": {
+          "id": "144",
+          "name": "Hair dryer"
+        },
+        "145": {
+          "id": "145",
+          "name": "Iron/ironing board"
+        },
+        "146": {
+          "id": "146",
+          "name": "In-room safe"
+        },
+        "2034": {
+          "id": "2034",
+          "name": "Premium bedding"
+        },
+        "2056": {
+          "id": "2056",
+          "name": "Turndown service"
+        },
+        "2057": {
+          "id": "2057",
+          "name": "Free bottled water"
+        },
+        "2081": {
+          "id": "2081",
+          "name": "Premium TV channels"
+        },
+        "2150": {
+          "id": "2150",
+          "name": "Blackout drapes/curtains"
+        },
+        "2162": {
+          "id": "2162",
+          "name": "Slippers"
+        },
+        "2170": {
+          "id": "2170",
+          "name": "Separate bathtub and shower"
+        },
+        "2370": {
+          "id": "2370",
+          "name": "Separate dining area"
+        },
+        "2397": {
+          "id": "2397",
+          "name": "Digital TV service"
+        },
+        "2403": {
+          "id": "2403",
+          "name": "Free WiFi",
+          "categories": ["free_wifi", "wifi"]
+        },
+        "2579": {
+          "id": "2579",
+          "name": "TV size: 40",
+          "value": "40"
+        },
+        "2580": {
+          "id": "2580",
+          "name": "TV size measurement: inch",
+          "value": "inch"
+        },
+        "3501": {
+          "id": "3501",
+          "name": "Deep soaking bathtub"
+        },
+        "3502": {
+          "id": "3502",
+          "name": "Rainfall showerhead"
+        },
+        "4951": {
+          "id": "4951",
+          "name": "Free cribs/infant beds",
+          "categories": ["crib"]
+        },
+        "6176": {
+          "id": "6176",
+          "name": "Non-Smoking"
+        },
+        "1073742816": {
+          "id": "1073742816",
+          "name": "Rollaway/extra beds (surcharge)"
+        },
+        "1073743370": {
+          "id": "1073743370",
+          "name": "Towels provided"
+        },
+        "1073743371": {
+          "id": "1073743371",
+          "name": "Bedsheets provided"
+        },
+        "1073743569": {
+          "id": "1073743569",
+          "name": "Smart TV"
+        },
+        "1073744201": {
+          "id": "1073744201",
+          "name": "Soap"
+        },
+        "1073744202": {
+          "id": "1073744202",
+          "name": "Shampoo"
+        },
+        "1073744203": {
+          "id": "1073744203",
+          "name": "Toilet paper"
+        },
+        "1073744706": {
+          "id": "1073744706",
+          "name": "Wardrobe or closet"
+        },
+        "1073744764": {
+          "id": "1073744764",
+          "name": "Toothbrush and toothpaste available"
+        },
+        "1073744828": {
+          "id": "1073744828",
+          "name": "Change of towels (on request)"
+        },
+        "1073744831": {
+          "id": "1073744831",
+          "name": "Change of bed sheets (on request)"
+        },
+        "1073745167": {
+          "id": "1073745167",
+          "name": "Dining table"
+        }
+      },
+      "occupancy": {
+        "max_allowed": {
+          "total": 3,
+          "adults": 2,
+          "children": 1
+        },
+        "age_categories": {
+          "Adult": {
+            "name": "Adult",
+            "minimum_age": 12
+          },
+          "ChildAgeA": {
+            "name": "ChildAgeA",
+            "minimum_age": 0
+          }
+        }
+      },
+      "bed_groups": {
+        "37321": {
+          "id": "37321",
+          "description": "1 King Bed",
+          "configuration": [
+            {
+              "size": "King",
+              "type": "KingBed",
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "descriptions": {
+        "overview": "<p><strong>1 King Bed</strong></p><p>1173 sq feet </p><br/><p><b>Layout</b> - Bedroom, living room, and dining area</p><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 40-inch Smart TV with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), free bottled water, and dining table</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and separate shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and phone; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Fresh bed sheets (on request), fresh towels (on request), and air conditioning</p><p>Non-Smoking</p>"
+      }
+    },
+    "315454705": {
+      "id": "315454705",
+      "area": {
+        "square_feet": 484,
+        "square_meters": 45
+      },
+      "name": "Deluxe Room, 1 King Bed (Cityscape)",
+      "images": [
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": true
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Bathroom",
+          "category": 23000,
+          "hero_image": false
+        }
+      ],
+      "amenities": {
+        "1": {
+          "id": "1",
+          "name": "Air conditioning",
+          "categories": ["air_conditioning"]
+        },
+        "26": {
+          "id": "26",
+          "name": "Television"
+        },
+        "131": {
+          "id": "131",
+          "name": "Minibar"
+        },
+        "132": {
+          "id": "132",
+          "name": "Coffee/tea maker"
+        },
+        "133": {
+          "id": "133",
+          "name": "Daily housekeeping"
+        },
+        "135": {
+          "id": "135",
+          "name": "Hypo-allergenic bedding available"
+        },
+        "136": {
+          "id": "136",
+          "name": "Phone"
+        },
+        "141": {
+          "id": "141",
+          "name": "Private bathroom"
+        },
+        "142": {
+          "id": "142",
+          "name": "Bathrobes"
+        },
+        "144": {
+          "id": "144",
+          "name": "Hair dryer"
+        },
+        "145": {
+          "id": "145",
+          "name": "Iron/ironing board"
+        },
+        "146": {
+          "id": "146",
+          "name": "In-room safe"
+        },
+        "2034": {
+          "id": "2034",
+          "name": "Premium bedding"
+        },
+        "2056": {
+          "id": "2056",
+          "name": "Turndown service"
+        },
+        "2057": {
+          "id": "2057",
+          "name": "Free bottled water"
+        },
+        "2081": {
+          "id": "2081",
+          "name": "Premium TV channels"
+        },
+        "2150": {
+          "id": "2150",
+          "name": "Blackout drapes/curtains"
+        },
+        "2162": {
+          "id": "2162",
+          "name": "Slippers"
+        },
+        "2170": {
+          "id": "2170",
+          "name": "Separate bathtub and shower"
+        },
+        "2397": {
+          "id": "2397",
+          "name": "Digital TV service"
+        },
+        "2403": {
+          "id": "2403",
+          "name": "Free WiFi",
+          "categories": ["free_wifi", "wifi"]
+        },
+        "2579": {
+          "id": "2579",
+          "name": "TV size: 40",
+          "value": "40"
+        },
+        "2580": {
+          "id": "2580",
+          "name": "TV size measurement: inch",
+          "value": "inch"
+        },
+        "3501": {
+          "id": "3501",
+          "name": "Deep soaking bathtub"
+        },
+        "3502": {
+          "id": "3502",
+          "name": "Rainfall showerhead"
+        },
+        "4951": {
+          "id": "4951",
+          "name": "Free cribs/infant beds",
+          "categories": ["crib"]
+        },
+        "6176": {
+          "id": "6176",
+          "name": "Non-Smoking"
+        },
+        "1073742816": {
+          "id": "1073742816",
+          "name": "Rollaway/extra beds (surcharge)"
+        },
+        "1073743370": {
+          "id": "1073743370",
+          "name": "Towels provided"
+        },
+        "1073743371": {
+          "id": "1073743371",
+          "name": "Bedsheets provided"
+        },
+        "1073743569": {
+          "id": "1073743569",
+          "name": "Smart TV"
+        },
+        "1073744201": {
+          "id": "1073744201",
+          "name": "Soap"
+        },
+        "1073744202": {
+          "id": "1073744202",
+          "name": "Shampoo"
+        },
+        "1073744203": {
+          "id": "1073744203",
+          "name": "Toilet paper"
+        },
+        "1073744706": {
+          "id": "1073744706",
+          "name": "Wardrobe or closet"
+        },
+        "1073744764": {
+          "id": "1073744764",
+          "name": "Toothbrush and toothpaste available"
+        },
+        "1073744828": {
+          "id": "1073744828",
+          "name": "Change of towels (on request)"
+        },
+        "1073744831": {
+          "id": "1073744831",
+          "name": "Change of bed sheets (on request)"
+        }
+      },
+      "occupancy": {
+        "max_allowed": {
+          "total": 3,
+          "adults": 2,
+          "children": 1
+        },
+        "age_categories": {
+          "Adult": {
+            "name": "Adult",
+            "minimum_age": 12
+          },
+          "ChildAgeA": {
+            "name": "ChildAgeA",
+            "minimum_age": 0
+          }
+        }
+      },
+      "bed_groups": {
+        "37321": {
+          "id": "37321",
+          "description": "1 King Bed",
+          "configuration": [
+            {
+              "size": "King",
+              "type": "KingBed",
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "descriptions": {
+        "overview": "<p><strong>1 King Bed</strong></p><p>484 sq feet </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 40-inch Smart TV with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and separate shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and phone; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Fresh bed sheets (on request), fresh towels (on request), and air conditioning</p><p>Non-Smoking</p>"
+      }
+    },
+    "315454706": {
+      "id": "315454706",
+      "name": "Deluxe Twin Room (Cityscape)",
+      "images": [
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b3f3dfca_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b3f3dfca_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b3f3dfca_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b3f3dfca_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": true
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/2ae336f4_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/2ae336f4_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/2ae336f4_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/2ae336f4_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/67e60a79_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/67e60a79_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/67e60a79_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/67e60a79_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Bathroom",
+          "category": 23000,
+          "hero_image": false
+        }
+      ],
+      "amenities": {
+        "1": {
+          "id": "1",
+          "name": "Air conditioning",
+          "categories": ["air_conditioning"]
+        },
+        "26": {
+          "id": "26",
+          "name": "Television"
+        },
+        "131": {
+          "id": "131",
+          "name": "Minibar"
+        },
+        "132": {
+          "id": "132",
+          "name": "Coffee/tea maker"
+        },
+        "133": {
+          "id": "133",
+          "name": "Daily housekeeping"
+        },
+        "135": {
+          "id": "135",
+          "name": "Hypo-allergenic bedding available"
+        },
+        "136": {
+          "id": "136",
+          "name": "Phone"
+        },
+        "141": {
+          "id": "141",
+          "name": "Private bathroom"
+        },
+        "142": {
+          "id": "142",
+          "name": "Bathrobes"
+        },
+        "144": {
+          "id": "144",
+          "name": "Hair dryer"
+        },
+        "145": {
+          "id": "145",
+          "name": "Iron/ironing board"
+        },
+        "146": {
+          "id": "146",
+          "name": "In-room safe"
+        },
+        "2034": {
+          "id": "2034",
+          "name": "Premium bedding"
+        },
+        "2056": {
+          "id": "2056",
+          "name": "Turndown service"
+        },
+        "2057": {
+          "id": "2057",
+          "name": "Free bottled water"
+        },
+        "2081": {
+          "id": "2081",
+          "name": "Premium TV channels"
+        },
+        "2150": {
+          "id": "2150",
+          "name": "Blackout drapes/curtains"
+        },
+        "2162": {
+          "id": "2162",
+          "name": "Slippers"
+        },
+        "2170": {
+          "id": "2170",
+          "name": "Separate bathtub and shower"
+        },
+        "2397": {
+          "id": "2397",
+          "name": "Digital TV service"
+        },
+        "2403": {
+          "id": "2403",
+          "name": "Free WiFi",
+          "categories": ["free_wifi", "wifi"]
+        },
+        "2579": {
+          "id": "2579",
+          "name": "TV size: 40",
+          "value": "40"
+        },
+        "2580": {
+          "id": "2580",
+          "name": "TV size measurement: inch",
+          "value": "inch"
+        },
+        "3501": {
+          "id": "3501",
+          "name": "Deep soaking bathtub"
+        },
+        "3502": {
+          "id": "3502",
+          "name": "Rainfall showerhead"
+        },
+        "4951": {
+          "id": "4951",
+          "name": "Free cribs/infant beds",
+          "categories": ["crib"]
+        },
+        "6176": {
+          "id": "6176",
+          "name": "Non-Smoking"
+        },
+        "1073742816": {
+          "id": "1073742816",
+          "name": "Rollaway/extra beds (surcharge)"
+        },
+        "1073743370": {
+          "id": "1073743370",
+          "name": "Towels provided"
+        },
+        "1073743371": {
+          "id": "1073743371",
+          "name": "Bedsheets provided"
+        },
+        "1073743569": {
+          "id": "1073743569",
+          "name": "Smart TV"
+        },
+        "1073744201": {
+          "id": "1073744201",
+          "name": "Soap"
+        },
+        "1073744202": {
+          "id": "1073744202",
+          "name": "Shampoo"
+        },
+        "1073744203": {
+          "id": "1073744203",
+          "name": "Toilet paper"
+        },
+        "1073744706": {
+          "id": "1073744706",
+          "name": "Wardrobe or closet"
+        },
+        "1073744764": {
+          "id": "1073744764",
+          "name": "Toothbrush and toothpaste available"
+        },
+        "1073744828": {
+          "id": "1073744828",
+          "name": "Change of towels (on request)"
+        },
+        "1073744831": {
+          "id": "1073744831",
+          "name": "Change of bed sheets (on request)"
+        }
+      },
+      "occupancy": {
+        "max_allowed": {
+          "total": 3,
+          "adults": 2,
+          "children": 1
+        },
+        "age_categories": {
+          "Adult": {
+            "name": "Adult",
+            "minimum_age": 12
+          },
+          "ChildAgeA": {
+            "name": "ChildAgeA",
+            "minimum_age": 0
+          }
+        }
+      },
+      "bed_groups": {
+        "37341": {
+          "id": "37341",
+          "description": "2 Twin Beds",
+          "configuration": [
+            {
+              "size": "Twin",
+              "type": "TwinBed",
+              "quantity": 2
+            }
+          ]
+        }
+      },
+      "descriptions": {
+        "overview": "<p><strong>2 Twin Beds</strong></p><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 40-inch Smart TV with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and separate shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and phone; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Fresh bed sheets (on request), fresh towels (on request), and air conditioning</p><p>Non-Smoking</p>"
+      }
+    },
+    "315454707": {
+      "id": "315454707",
+      "area": {
+        "square_feet": 538,
+        "square_meters": 50
+      },
+      "name": "Executive Room, 1 King Bed (Cityscape)",
+      "images": [
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Primary image",
+          "category": 3,
+          "hero_image": true
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/0ec82add_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/0ec82add_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/0ec82add_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/0ec82add_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/e0557842_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/e0557842_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/e0557842_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/e0557842_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Room",
+          "category": 21001,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/771b028a_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/771b028a_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/771b028a_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/771b028a_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Bathroom",
+          "category": 23000,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Executive lounge",
+          "category": 83013,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Executive lounge",
+          "category": 83013,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Executive lounge",
+          "category": 83013,
+          "hero_image": false
+        },
+        {
+          "links": {
+            "70px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_t.jpg",
+              "method": "GET"
+            },
+            "200px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_s.jpg",
+              "method": "GET"
+            },
+            "350px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_b.jpg",
+              "method": "GET"
+            },
+            "1000px": {
+              "href": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_z.jpg",
+              "method": "GET"
+            }
+          },
+          "caption": "Executive lounge",
+          "category": 83013,
+          "hero_image": false
+        }
+      ],
+      "amenities": {
+        "1": {
+          "id": "1",
+          "name": "Air conditioning",
+          "categories": ["air_conditioning"]
+        },
+        "26": {
+          "id": "26",
+          "name": "Television"
+        },
+        "131": {
+          "id": "131",
+          "name": "Minibar"
+        },
+        "132": {
+          "id": "132",
+          "name": "Coffee/tea maker"
+        },
+        "133": {
+          "id": "133",
+          "name": "Daily housekeeping"
+        },
+        "135": {
+          "id": "135",
+          "name": "Hypo-allergenic bedding available"
+        },
+        "136": {
+          "id": "136",
+          "name": "Phone"
+        },
+        "141": {
+          "id": "141",
+          "name": "Private bathroom"
+        },
+        "142": {
+          "id": "142",
+          "name": "Bathrobes"
+        },
+        "144": {
+          "id": "144",
+          "name": "Hair dryer"
+        },
+        "145": {
+          "id": "145",
+          "name": "Iron/ironing board"
+        },
+        "146": {
+          "id": "146",
+          "name": "In-room safe"
+        },
+        "2034": {
+          "id": "2034",
+          "name": "Premium bedding"
+        },
+        "2056": {
+          "id": "2056",
+          "name": "Turndown service"
+        },
+        "2057": {
+          "id": "2057",
+          "name": "Free bottled water"
+        },
+        "2081": {
+          "id": "2081",
+          "name": "Premium TV channels"
+        },
+        "2150": {
+          "id": "2150",
+          "name": "Blackout drapes/curtains"
+        },
+        "2162": {
+          "id": "2162",
+          "name": "Slippers"
+        },
+        "2170": {
+          "id": "2170",
+          "name": "Separate bathtub and shower"
+        },
+        "2397": {
+          "id": "2397",
+          "name": "Digital TV service"
+        },
+        "2403": {
+          "id": "2403",
+          "name": "Free WiFi",
+          "categories": ["free_wifi", "wifi"]
+        },
+        "2579": {
+          "id": "2579",
+          "name": "TV size: 40",
+          "value": "40"
+        },
+        "2580": {
+          "id": "2580",
+          "name": "TV size measurement: inch",
+          "value": "inch"
+        },
+        "3501": {
+          "id": "3501",
+          "name": "Deep soaking bathtub"
+        },
+        "3502": {
+          "id": "3502",
+          "name": "Rainfall showerhead"
+        },
+        "4642": {
+          "id": "4642",
+          "name": "No rollaway/extra beds"
+        },
+        "4951": {
+          "id": "4951",
+          "name": "Free cribs/infant beds",
+          "categories": ["crib"]
+        },
+        "6176": {
+          "id": "6176",
+          "name": "Non-Smoking"
+        },
+        "1073743370": {
+          "id": "1073743370",
+          "name": "Towels provided"
+        },
+        "1073743371": {
+          "id": "1073743371",
+          "name": "Bedsheets provided"
+        },
+        "1073743569": {
+          "id": "1073743569",
+          "name": "Smart TV"
+        },
+        "1073744201": {
+          "id": "1073744201",
+          "name": "Soap"
+        },
+        "1073744202": {
+          "id": "1073744202",
+          "name": "Shampoo"
+        },
+        "1073744203": {
+          "id": "1073744203",
+          "name": "Toilet paper"
+        },
+        "1073744706": {
+          "id": "1073744706",
+          "name": "Wardrobe or closet"
+        },
+        "1073744764": {
+          "id": "1073744764",
+          "name": "Toothbrush and toothpaste available"
+        },
+        "1073744828": {
+          "id": "1073744828",
+          "name": "Change of towels (on request)"
+        },
+        "1073744831": {
+          "id": "1073744831",
+          "name": "Change of bed sheets (on request)"
+        }
+      },
+      "occupancy": {
+        "max_allowed": {
+          "total": 3,
+          "adults": 2,
+          "children": 1
+        },
+        "age_categories": {
+          "Adult": {
+            "name": "Adult",
+            "minimum_age": 12
+          },
+          "ChildAgeA": {
+            "name": "ChildAgeA",
+            "minimum_age": 0
+          }
+        }
+      },
+      "bed_groups": {
+        "37321": {
+          "id": "37321",
+          "description": "1 King Bed",
+          "configuration": [
+            {
+              "size": "King",
+              "type": "KingBed",
+              "quantity": 1
+            }
+          ]
+        }
+      },
+      "descriptions": {
+        "overview": "<p><strong>1 King Bed</strong></p><p>538 sq feet </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 40-inch Smart TV with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and separate shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and phone; free cribs/infant beds available on request</p><p><b>Comfort</b> - Fresh bed sheets (on request), fresh towels (on request), and air conditioning</p><p><b>Need to Know</b> - No rollaway/extra beds available</p><p>Non-Smoking</p>"
+      }
+    }
+  }
+}

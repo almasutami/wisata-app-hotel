@@ -1,0 +1,4336 @@
+{
+  "property_id": 9001948244,
+  "offer_summary_data": {
+    "min_saving_pct": 0.0952091641664735,
+    "max_saving_pct": 0.36356580370688696,
+    "median_saving_pct": 0.19377199467554096,
+    "mean_saving_pct": 0.19813126390600355,
+    "mode_saving_pct": 0.22156440473633077
+  },
+  "offer_list": [
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214047_RO_NR",
+      "price_total": 3803000,
+      "rate_nightly": 3803000,
+      "room_name": "Deluxe Room, 1 King Bed",
+      "room_available": null,
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 42,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214047_RO_NR?token=cb22c845-daa5-42cf-8ca1-cbab76994f08",
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214047"
+      },
+      "v2_room_id": "314214047",
+      "v2_room_dict": {
+        "id": "314214047",
+        "name": "Deluxe Room, 1 King Bed",
+        "bed_group": "1 King Bed",
+        "view": "",
+        "size_sqm": 42,
+        "image_data": [
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_b.jpg"
+          }
+        ]
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5649234,
+        "strikethrough_price_total": 5649234,
+        "rate_nightly": 3803000,
+        "price_total": 3803000,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 3688900,
+        "net_price_total": 3688900,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 3612800,
+        "net_price_total_with_bonus": 3612800,
+        "wisata_point": 3,
+        "saving_pct": 0.3376983171093001
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214049_RO_NR",
+      "price_total": 3949500,
+      "rate_nightly": 3949500,
+      "room_name": "Deluxe Room, 1 King Bed (Skyline)",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 45,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214049_RO_NR?token=a5bcca29-06eb-4df6-b56e-8040a1728e02",
+      "tax": 680400,
+      "tax_rate": 0.22909083195594884,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214049"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5005192,
+        "strikethrough_price_total": 5005192,
+        "rate_nightly": 3949500,
+        "price_total": 3949500,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 3831000,
+        "net_price_total": 3831000,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 3752000,
+        "net_price_total_with_bonus": 3752000,
+        "wisata_point": 3,
+        "saving_pct": 0.22156440473633077
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_deluxe_langham_king__RO_NR",
+      "price_total": 4127000,
+      "rate_nightly": 4127000,
+      "room_name": "Deluxe Room, Langham, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_deluxe_langham_king__RO_NR?token=45214afd-8de8-47a5-9f69-383fed4ee24c",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|deluxe|langham|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|deluxe|langham|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": 4509986,
+        "strikethrough_price_total": 4509986,
+        "rate_nightly": 4127000,
+        "price_total": 4127000,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4003100,
+        "net_price_total": 4003100,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 3920600,
+        "net_price_total_with_bonus": 3920600,
+        "wisata_point": 3,
+        "saving_pct": 0.0952091641664735
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214051_RO_NR",
+      "price_total": 4176000,
+      "rate_nightly": 4176000,
+      "room_name": "Deluxe Twin Room (Skyline)",
+      "room_available": null,
+      "room_bed_groups": "2 Twin Beds",
+      "room_size_sqm": null,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b3f3dfca_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/2ae336f4_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/d4016577_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214051_RO_NR?token=e43f8606-09ad-4a8c-b19f-715676133cd8",
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214051"
+      },
+      "v2_room_id": "314214051",
+      "v2_room_dict": {
+        "id": "314214051",
+        "name": "Deluxe Twin Room (Skyline)",
+        "bed_group": "2 Twin Beds",
+        "view": "",
+        "size_sqm": null,
+        "image_data": [
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b3f3dfca_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/2ae336f4_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/d4016577_b.jpg"
+          }
+        ]
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5109071,
+        "strikethrough_price_total": 5109071,
+        "rate_nightly": 4176000,
+        "price_total": 4176000,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4050700,
+        "net_price_total": 4050700,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 3967200,
+        "net_price_total_with_bonus": 3967200,
+        "wisata_point": 3,
+        "saving_pct": 0.1931874742224834
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_315454705_RO_NR",
+      "price_total": 4191400,
+      "rate_nightly": 4191400,
+      "room_name": "Deluxe Room, 1 King Bed (Cityscape)",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 45,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_315454705_RO_NR?token=d5fecb92-cbdc-4005-94ab-bcf58185e82f",
+      "tax": 722400,
+      "tax_rate": 0.22909093330770966,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "315454705"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 4223858,
+        "strikethrough_price_total": 4223858,
+        "rate_nightly": 4191400,
+        "price_total": 4191400,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4065600,
+        "net_price_total": 4065600,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 3981800,
+        "net_price_total_with_bonus": 3981800,
+        "wisata_point": 3,
+        "saving_pct": 0.017715394532198496
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_deluxe_langham_cityscape_king__RO_NR",
+      "price_total": 4327500,
+      "rate_nightly": 4327500,
+      "room_name": "Deluxe Room, Langham, Cityscape, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_deluxe_langham_cityscape_king__RO_NR?token=76825b34-943a-4778-863a-6c08435fe754",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|deluxe|langham_cityscape|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|deluxe|langham_cityscape|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 4327500,
+        "price_total": 4327500,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4197600,
+        "net_price_total": 4197600,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4111100,
+        "net_price_total_with_bonus": 4111100,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214053_RO_NR",
+      "price_total": 4575900,
+      "rate_nightly": 4575900,
+      "room_name": "Executive Room, 1 King Bed",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 50,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Primary image",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b97edec2_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/19727217_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4afdbc12_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/f67426df_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214053_RO_NR?token=590b37e4-fc4d-4a17-b657-b30685656829",
+      "tax": 791746,
+      "tax_rate": 0.2290906523597252,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214053"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 7070408,
+        "strikethrough_price_total": 7070408,
+        "rate_nightly": 4575900,
+        "price_total": 4575900,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4438600,
+        "net_price_total": 4438600,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4347100,
+        "net_price_total_with_bonus": 4347100,
+        "wisata_point": 3,
+        "saving_pct": 0.36356580370688696
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_deluxe_langham_king__BB_NR",
+      "price_total": 4753400,
+      "rate_nightly": 4753400,
+      "room_name": "Deluxe Room, Langham, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_deluxe_langham_king__BB_NR?token=8c5f3cc0-e096-4785-8234-0d8598adba4f",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|deluxe|langham|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|deluxe|langham|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5195193,
+        "strikethrough_price_total": 5195193,
+        "rate_nightly": 4753400,
+        "price_total": 4753400,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4610700,
+        "net_price_total": 4610700,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4515700,
+        "net_price_total_with_bonus": 4515700,
+        "wisata_point": 3,
+        "saving_pct": 0.09529662890938616
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214047_RO_FC",
+      "price_total": 4852100,
+      "rate_nightly": 4852100,
+      "room_name": "Deluxe Room, 1 King Bed",
+      "room_available": null,
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 42,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214047_RO_FC?token=7885588d-8d8e-4bc9-b806-099433a88669",
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214047"
+      },
+      "v2_room_id": "314214047",
+      "v2_room_dict": {
+        "id": "314214047",
+        "name": "Deluxe Room, 1 King Bed",
+        "bed_group": "1 King Bed",
+        "view": "",
+        "size_sqm": 42,
+        "image_data": [
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_b.jpg"
+          }
+        ]
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5068066,
+        "strikethrough_price_total": 5068066,
+        "rate_nightly": 4852100,
+        "price_total": 4852100,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4706500,
+        "net_price_total": 4706500,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4609400,
+        "net_price_total_with_bonus": 4609400,
+        "wisata_point": 3,
+        "saving_pct": 0.052742762512898105
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_deluxe_langham_king__RO_FC",
+      "price_total": 4852100,
+      "rate_nightly": 4852100,
+      "room_name": "Deluxe Room, Langham, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_deluxe_langham_king__RO_FC?token=e8b17b5f-09b8-4fe6-b9a1-136de8060a1a",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|deluxe|langham|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|deluxe|langham|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5068066,
+        "strikethrough_price_total": 5068066,
+        "rate_nightly": 4852100,
+        "price_total": 4852100,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4706500,
+        "net_price_total": 4706500,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4609400,
+        "net_price_total_with_bonus": 4609400,
+        "wisata_point": 3,
+        "saving_pct": 0.052742762512898105
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214049_RO_FC",
+      "price_total": 4914400,
+      "rate_nightly": 4914400,
+      "room_name": "Deluxe Room, 1 King Bed (Skyline)",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 45,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214049_RO_FC?token=f743d93b-061e-4a1b-918a-734acfc212ed",
+      "tax": 850500,
+      "tax_rate": 0.22909084738293672,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214049"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5641155,
+        "strikethrough_price_total": 5641155,
+        "rate_nightly": 4914400,
+        "price_total": 4914400,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4766900,
+        "net_price_total": 4766900,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4668600,
+        "net_price_total_with_bonus": 4668600,
+        "wisata_point": 3,
+        "saving_pct": 0.13919107276639198
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_deluxe_langham_cityscape_king__BB_NR",
+      "price_total": 4953800,
+      "rate_nightly": 4953800,
+      "room_name": "Deluxe Room, Langham, Cityscape, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_deluxe_langham_cityscape_king__BB_NR?token=ea874532-70ea-4fa9-a932-9ab9827b00a0",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|deluxe|langham_cityscape|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|deluxe|langham_cityscape|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 4953800,
+        "price_total": 4953800,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4805100,
+        "net_price_total": 4805100,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4706100,
+        "net_price_total_with_bonus": 4706100,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_315454705_RO_FC",
+      "price_total": 5087900,
+      "rate_nightly": 5087900,
+      "room_name": "Deluxe Room, 1 King Bed (Cityscape)",
+      "room_available": null,
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 45,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_315454705_RO_FC?token=dd1c97d4-37fe-434e-8429-e1fa378643f8",
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "315454705"
+      },
+      "v2_room_id": "315454705",
+      "v2_room_dict": {
+        "id": "315454705",
+        "name": "Deluxe Room, 1 King Bed (Cityscape)",
+        "bed_group": "1 King Bed",
+        "view": "",
+        "size_sqm": 45,
+        "image_data": [
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+          }
+        ]
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5276072,
+        "strikethrough_price_total": 5276072,
+        "rate_nightly": 5087900,
+        "price_total": 5087900,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4935200,
+        "net_price_total": 4935200,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4833500,
+        "net_price_total_with_bonus": 4833500,
+        "wisata_point": 3,
+        "saving_pct": 0.04576818564733575
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_deluxe_langham_cityscape_king__RO_FC",
+      "price_total": 5087900,
+      "rate_nightly": 5087900,
+      "room_name": "Deluxe Room, Langham, Cityscape, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_deluxe_langham_cityscape_king__RO_FC?token=ee946c11-7893-482d-a1da-bd12e66fece1",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|deluxe|langham_cityscape|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|deluxe|langham_cityscape|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 5087900,
+        "price_total": 5087900,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4935200,
+        "net_price_total": 4935200,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4833500,
+        "net_price_total_with_bonus": 4833500,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214053_RO_FC",
+      "price_total": 5100900,
+      "rate_nightly": 5100900,
+      "room_name": "Executive Room, 1 King Bed",
+      "room_available": null,
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 50,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Primary image",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b97edec2_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/19727217_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4afdbc12_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/f67426df_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214053_RO_FC?token=9a72587c-9a47-41e4-a96e-b1e3983b1160",
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214053"
+      },
+      "v2_room_id": "314214053",
+      "v2_room_dict": {
+        "id": "314214053",
+        "name": "Executive Room, 1 King Bed",
+        "bed_group": "1 King Bed",
+        "view": "",
+        "size_sqm": 50,
+        "image_data": [
+          {
+            "caption": "Primary image",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b97edec2_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/19727217_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4afdbc12_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/f67426df_b.jpg"
+          },
+          {
+            "caption": "Executive lounge",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg"
+          },
+          {
+            "caption": "Executive lounge",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_b.jpg"
+          },
+          {
+            "caption": "Executive lounge",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_b.jpg"
+          },
+          {
+            "caption": "Executive lounge",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_b.jpg"
+          }
+        ]
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 6191974,
+        "strikethrough_price_total": 6191974,
+        "rate_nightly": 5100900,
+        "price_total": 5100900,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4947800,
+        "net_price_total": 4947800,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4845800,
+        "net_price_total_with_bonus": 4845800,
+        "wisata_point": 3,
+        "saving_pct": 0.18663762224027491
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214049_BB_NR",
+      "price_total": 5154300,
+      "rate_nightly": 5154300,
+      "room_name": "Deluxe Room, 1 King Bed (Skyline)",
+      "room_available": null,
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 45,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+        }
+      ],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214049_BB_NR?token=ca9eb587-fb60-4946-b3f6-fdf99697c64f",
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214049"
+      },
+      "v2_room_id": "314214049",
+      "v2_room_dict": {
+        "id": "314214049",
+        "name": "Deluxe Room, 1 King Bed (Skyline)",
+        "bed_group": "1 King Bed",
+        "view": "",
+        "size_sqm": 45,
+        "image_data": [
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+          }
+        ]
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 5154300,
+        "price_total": 5154300,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4999600,
+        "net_price_total": 4999600,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4896500,
+        "net_price_total_with_bonus": 4896500,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_executive_langham_king__RO_NR",
+      "price_total": 5265900,
+      "rate_nightly": 5265900,
+      "room_name": "Executive Room, Langham, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_executive_langham_king__RO_NR?token=f2ca2bd3-95d5-4c91-9efc-8dd1b4e85204",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|executive|langham|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|executive|langham|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 5265900,
+        "price_total": 5265900,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5107900,
+        "net_price_total": 5107900,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5002600,
+        "net_price_total_with_bonus": 5002600,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214047_BB_NR",
+      "price_total": 5350900,
+      "rate_nightly": 5350900,
+      "room_name": "Deluxe Room, 1 King Bed",
+      "room_available": null,
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 42,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_b.jpg"
+        }
+      ],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214047_BB_NR?token=6846634f-2833-4a39-837a-3acb626b7ae1",
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214047"
+      },
+      "v2_room_id": "314214047",
+      "v2_room_dict": {
+        "id": "314214047",
+        "name": "Deluxe Room, 1 King Bed",
+        "bed_group": "1 King Bed",
+        "view": "",
+        "size_sqm": 42,
+        "image_data": [
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_b.jpg"
+          }
+        ]
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 6542602,
+        "strikethrough_price_total": 6542602,
+        "rate_nightly": 5350900,
+        "price_total": 5350900,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5190300,
+        "net_price_total": 5190300,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5083300,
+        "net_price_total_with_bonus": 5083300,
+        "wisata_point": 3,
+        "saving_pct": 0.19257317158736087
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214047_BB_FC",
+      "price_total": 5579700,
+      "rate_nightly": 5579700,
+      "room_name": "Deluxe Room, 1 King Bed",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 42,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_b.jpg"
+        }
+      ],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214047_BB_FC?token=05918a05-c25d-4dcb-a665-00e91aeddf78",
+      "tax": 966000,
+      "tax_rate": 0.22909089098095722,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214047"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 7050155,
+        "strikethrough_price_total": 7050155,
+        "rate_nightly": 5579700,
+        "price_total": 5579700,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5412300,
+        "net_price_total": 5412300,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5300700,
+        "net_price_total_with_bonus": 5300700,
+        "wisata_point": 3,
+        "saving_pct": 0.21902339749444044
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_deluxe_langham_king__BB_FC",
+      "price_total": 5589000,
+      "rate_nightly": 5589000,
+      "room_name": "Deluxe Room, Langham, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_deluxe_langham_king__BB_FC?token=66685cd0-b4d5-4ad9-a53c-38de86473f41",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|deluxe|langham|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|deluxe|langham|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5838334,
+        "strikethrough_price_total": 5838334,
+        "rate_nightly": 5589000,
+        "price_total": 5589000,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5421300,
+        "net_price_total": 5421300,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5309500,
+        "net_price_total_with_bonus": 5309500,
+        "wisata_point": 3,
+        "saving_pct": 0.05281842669508562
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214053_BB_FC",
+      "price_total": 5635800,
+      "rate_nightly": 5635800,
+      "room_name": "Executive Room, 1 King Bed",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 50,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Primary image",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b97edec2_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/19727217_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4afdbc12_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/f67426df_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_b.jpg"
+        }
+      ],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214053_BB_FC?token=ff8426a6-ccf2-4baa-b28d-af3298496b74",
+      "tax": 1023952,
+      "tax_rate": 0.25200034651671943,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214053"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 6928877,
+        "strikethrough_price_total": 6928877,
+        "rate_nightly": 5635800,
+        "price_total": 5635800,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5466700,
+        "net_price_total": 5466700,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5354000,
+        "net_price_total_with_bonus": 5354000,
+        "wisata_point": 3,
+        "saving_pct": 0.1970306631141977
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214049_BB_FC",
+      "price_total": 5778800,
+      "rate_nightly": 5778800,
+      "room_name": "Deluxe Room, 1 King Bed (Skyline)",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 45,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+        }
+      ],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214049_BB_FC?token=3f3d7679-7c71-4be2-b86d-8b51be761674",
+      "tax": 1050000,
+      "tax_rate": 0.25200004032000645,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214049"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 7539557,
+        "strikethrough_price_total": 7539557,
+        "rate_nightly": 5778800,
+        "price_total": 5778800,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5605400,
+        "net_price_total": 5605400,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5489800,
+        "net_price_total_with_bonus": 5489800,
+        "wisata_point": 3,
+        "saving_pct": 0.2440067328880624
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214051_BB_NR",
+      "price_total": 5779800,
+      "rate_nightly": 5779800,
+      "room_name": "Deluxe Twin Room (Skyline)",
+      "room_available": null,
+      "room_bed_groups": "2 Twin Beds",
+      "room_size_sqm": null,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b3f3dfca_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/2ae336f4_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/d4016577_b.jpg"
+        }
+      ],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214051_BB_NR?token=4d45ebcb-6a43-43fa-9297-d394e53a7bac",
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214051"
+      },
+      "v2_room_id": "314214051",
+      "v2_room_dict": {
+        "id": "314214051",
+        "name": "Deluxe Twin Room (Skyline)",
+        "bed_group": "2 Twin Beds",
+        "view": "",
+        "size_sqm": null,
+        "image_data": [
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b3f3dfca_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/2ae336f4_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/d4016577_b.jpg"
+          }
+        ]
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 7082773,
+        "strikethrough_price_total": 7082773,
+        "rate_nightly": 5779800,
+        "price_total": 5779800,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5606400,
+        "net_price_total": 5606400,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5490800,
+        "net_price_total_with_bonus": 5490800,
+        "wisata_point": 3,
+        "saving_pct": 0.19435651512859853
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_315454705_BB_FC",
+      "price_total": 5821600,
+      "rate_nightly": 5821600,
+      "room_name": "Deluxe Room, 1 King Bed (Cityscape)",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 45,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+        }
+      ],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_315454705_BB_FC?token=e0d1dfdd-9359-4210-a5c1-7301e4b2efae",
+      "tax": 1008000,
+      "tax_rate": 0.2290909090909091,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "315454705"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 7294856,
+        "strikethrough_price_total": 7294856,
+        "rate_nightly": 5821600,
+        "price_total": 5821600,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5646900,
+        "net_price_total": 5646900,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5530500,
+        "net_price_total_with_bonus": 5530500,
+        "wisata_point": 3,
+        "saving_pct": 0.21237653052477967
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_deluxe_langham_cityscape_king__BB_FC",
+      "price_total": 5824800,
+      "rate_nightly": 5824800,
+      "room_name": "Deluxe Room, Langham, Cityscape, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_deluxe_langham_cityscape_king__BB_FC?token=cc11fed1-62d1-4bc7-91ea-3b04a64ac823",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|deluxe|langham_cityscape|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|deluxe|langham_cityscape|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 5824800,
+        "price_total": 5824800,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5650000,
+        "net_price_total": 5650000,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5533500,
+        "net_price_total_with_bonus": 5533500,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_executive_langham_king__BB_NR",
+      "price_total": 5892300,
+      "rate_nightly": 5892300,
+      "room_name": "Executive Room, Langham, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_executive_langham_king__BB_NR?token=b7a0ca77-f5db-4626-b145-5895141c201a",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|executive|langham|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|executive|langham|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 5892300,
+        "price_total": 5892300,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5715500,
+        "net_price_total": 5715500,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5597600,
+        "net_price_total_with_bonus": 5597600,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_315454707_RO_NR",
+      "price_total": 5991300,
+      "rate_nightly": 5991300,
+      "room_name": "Executive Room, 1 King Bed (Cityscape)",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 50,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Primary image",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/0ec82add_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/e0557842_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/771b028a_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_315454707_RO_NR?token=e304804f-020a-4d42-8f30-426d03ba594a",
+      "tax": 1037446,
+      "tax_rate": 0.2290907131617312,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "315454707"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 6877835,
+        "strikethrough_price_total": 6877835,
+        "rate_nightly": 5991300,
+        "price_total": 5991300,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5811500,
+        "net_price_total": 5811500,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5691700,
+        "net_price_total_with_bonus": 5691700,
+        "wisata_point": 3,
+        "saving_pct": 0.13919179901600431
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_executive_langham_king__RO_FC",
+      "price_total": 6192000,
+      "rate_nightly": 6192000,
+      "room_name": "Executive Room, Langham, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_executive_langham_king__RO_FC?token=76760b03-613e-4a7a-9d3e-c881c25920ad",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|executive|langham|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|executive|langham|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 6192000,
+        "price_total": 6192000,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 6006200,
+        "net_price_total": 6006200,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5882400,
+        "net_price_total_with_bonus": 5882400,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_club_deluxe_king__BB_FC",
+      "price_total": 6797600,
+      "rate_nightly": 6797600,
+      "room_name": "Club Deluxe Room, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_club_deluxe_king__BB_FC?token=8707850b-569e-41b6-bb63-1ff906ddfa42",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|club_deluxe|?|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|club_deluxe|?|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 6797600,
+        "price_total": 6797600,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 6593600,
+        "net_price_total": 6593600,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 6457700,
+        "net_price_total_with_bonus": 6457700,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_executive_langham_king__BB_FC",
+      "price_total": 6928900,
+      "rate_nightly": 6928900,
+      "room_name": "Executive Room, Langham, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_executive_langham_king__BB_FC?token=26fbcaa4-7e4c-4edd-a48c-d289ddad0905",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|executive|langham|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|executive|langham|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 6928900,
+        "price_total": 6928900,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 6721000,
+        "net_price_total": 6721000,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 6582400,
+        "net_price_total_with_bonus": 6582400,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_club_deluxe_cityscape_king__BB_FC",
+      "price_total": 7033400,
+      "rate_nightly": 7033400,
+      "room_name": "Club Deluxe Room, Cityscape, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_club_deluxe_cityscape_king__BB_FC?token=99b030c2-7724-4320-855e-672502f9c29f",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|club_deluxe|cityscape|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|club_deluxe|cityscape|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 7033400,
+        "price_total": 7033400,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 6822300,
+        "net_price_total": 6822300,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 6681700,
+        "net_price_total_with_bonus": 6681700,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_executive_langham_cityscape_king__RO_FC",
+      "price_total": 7135300,
+      "rate_nightly": 7135300,
+      "room_name": "Executive Room, Langham, Cityscape, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_executive_langham_cityscape_king__RO_FC?token=74c03f8c-4d20-4148-aa77-5a8d48f6cc42",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|executive|langham_cityscape|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|executive|langham_cityscape|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 7135300,
+        "price_total": 7135300,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 6921200,
+        "net_price_total": 6921200,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 6778500,
+        "net_price_total_with_bonus": 6778500,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_sky_club_deluxe_king__RO_FC",
+      "price_total": 7269200,
+      "rate_nightly": 7269200,
+      "room_name": "Sky Club Deluxe Room, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_sky_club_deluxe_king__RO_FC?token=281696d2-f158-4b64-80f4-1f1895d906d1",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|sky_club_deluxe|?|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|sky_club_deluxe|?|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 7269200,
+        "price_total": 7269200,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 7051100,
+        "net_price_total": 7051100,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 6905700,
+        "net_price_total_with_bonus": 6905700,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_315454707_RO_FC",
+      "price_total": 7485300,
+      "rate_nightly": 7485300,
+      "room_name": "Executive Room, 1 King Bed (Cityscape)",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 50,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Primary image",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/0ec82add_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/e0557842_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/771b028a_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_315454707_RO_FC?token=f01e4815-5ed3-4e5d-885d-2808089c8daf",
+      "tax": 1296809,
+      "tax_rate": 0.22909095791260156,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "315454707"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 8593536,
+        "strikethrough_price_total": 8593536,
+        "rate_nightly": 7485300,
+        "price_total": 7485300,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 7260700,
+        "net_price_total": 7260700,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 7111000,
+        "net_price_total_with_bonus": 7111000,
+        "wisata_point": 3,
+        "saving_pct": 0.13919092488508533
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_club_executive_king__RO_FC",
+      "price_total": 8137400,
+      "rate_nightly": 8137400,
+      "room_name": "Club Executive Room, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_club_executive_king__RO_FC?token=d245a9fc-e06c-41b0-820a-a076bd81131c",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|club_executive|?|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|club_executive|?|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 8137400,
+        "price_total": 8137400,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 7893200,
+        "net_price_total": 7893200,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 7730500,
+        "net_price_total_with_bonus": 7730500,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214054_RO_NR",
+      "price_total": 15596100,
+      "rate_nightly": 15596100,
+      "room_name": "Suite, 1 Bedroom (Langham)",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 109,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b82524c9_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/9c1100a2_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7047h4027x0y0-8a1e75e4_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4c3a2246_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214054_RO_NR?token=39dc4158-2faf-4b7c-82e9-f4c50d560bac",
+      "tax": 2704800,
+      "tax_rate": 0.2290909026230688,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214054"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 15773748,
+        "strikethrough_price_total": 15773748,
+        "rate_nightly": 15596100,
+        "price_total": 15596100,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 15128200,
+        "net_price_total": 15128200,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 14816200,
+        "net_price_total_with_bonus": 14816200,
+        "wisata_point": 3,
+        "saving_pct": 0.021279195530000232
+      }
+    }
+  ],
+  "offers": [
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214047_RO_NR",
+      "price_total": 3803000,
+      "rate_nightly": 3803000,
+      "room_name": "Deluxe Room, 1 King Bed",
+      "room_available": null,
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 42,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214047_RO_NR?token=cb22c845-daa5-42cf-8ca1-cbab76994f08",
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214047"
+      },
+      "v2_room_id": "314214047",
+      "v2_room_dict": {
+        "id": "314214047",
+        "name": "Deluxe Room, 1 King Bed",
+        "bed_group": "1 King Bed",
+        "view": "",
+        "size_sqm": 42,
+        "image_data": [
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_b.jpg"
+          }
+        ]
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5649234,
+        "strikethrough_price_total": 5649234,
+        "rate_nightly": 3803000,
+        "price_total": 3803000,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 3688900,
+        "net_price_total": 3688900,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 3612800,
+        "net_price_total_with_bonus": 3612800,
+        "wisata_point": 3,
+        "saving_pct": 0.3376983171093001
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214049_RO_NR",
+      "price_total": 3949500,
+      "rate_nightly": 3949500,
+      "room_name": "Deluxe Room, 1 King Bed (Skyline)",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 45,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214049_RO_NR?token=a5bcca29-06eb-4df6-b56e-8040a1728e02",
+      "tax": 680400,
+      "tax_rate": 0.22909083195594884,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214049"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5005192,
+        "strikethrough_price_total": 5005192,
+        "rate_nightly": 3949500,
+        "price_total": 3949500,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 3831000,
+        "net_price_total": 3831000,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 3752000,
+        "net_price_total_with_bonus": 3752000,
+        "wisata_point": 3,
+        "saving_pct": 0.22156440473633077
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_deluxe_langham_king__RO_NR",
+      "price_total": 4127000,
+      "rate_nightly": 4127000,
+      "room_name": "Deluxe Room, Langham, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_deluxe_langham_king__RO_NR?token=45214afd-8de8-47a5-9f69-383fed4ee24c",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|deluxe|langham|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|deluxe|langham|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": 4509986,
+        "strikethrough_price_total": 4509986,
+        "rate_nightly": 4127000,
+        "price_total": 4127000,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4003100,
+        "net_price_total": 4003100,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 3920600,
+        "net_price_total_with_bonus": 3920600,
+        "wisata_point": 3,
+        "saving_pct": 0.0952091641664735
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214051_RO_NR",
+      "price_total": 4176000,
+      "rate_nightly": 4176000,
+      "room_name": "Deluxe Twin Room (Skyline)",
+      "room_available": null,
+      "room_bed_groups": "2 Twin Beds",
+      "room_size_sqm": null,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b3f3dfca_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/2ae336f4_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/d4016577_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214051_RO_NR?token=e43f8606-09ad-4a8c-b19f-715676133cd8",
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214051"
+      },
+      "v2_room_id": "314214051",
+      "v2_room_dict": {
+        "id": "314214051",
+        "name": "Deluxe Twin Room (Skyline)",
+        "bed_group": "2 Twin Beds",
+        "view": "",
+        "size_sqm": null,
+        "image_data": [
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b3f3dfca_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/2ae336f4_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/d4016577_b.jpg"
+          }
+        ]
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5109071,
+        "strikethrough_price_total": 5109071,
+        "rate_nightly": 4176000,
+        "price_total": 4176000,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4050700,
+        "net_price_total": 4050700,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 3967200,
+        "net_price_total_with_bonus": 3967200,
+        "wisata_point": 3,
+        "saving_pct": 0.1931874742224834
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_315454705_RO_NR",
+      "price_total": 4191400,
+      "rate_nightly": 4191400,
+      "room_name": "Deluxe Room, 1 King Bed (Cityscape)",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 45,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_315454705_RO_NR?token=d5fecb92-cbdc-4005-94ab-bcf58185e82f",
+      "tax": 722400,
+      "tax_rate": 0.22909093330770966,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "315454705"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 4223858,
+        "strikethrough_price_total": 4223858,
+        "rate_nightly": 4191400,
+        "price_total": 4191400,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4065600,
+        "net_price_total": 4065600,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 3981800,
+        "net_price_total_with_bonus": 3981800,
+        "wisata_point": 3,
+        "saving_pct": 0.017715394532198496
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_deluxe_langham_cityscape_king__RO_NR",
+      "price_total": 4327500,
+      "rate_nightly": 4327500,
+      "room_name": "Deluxe Room, Langham, Cityscape, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_deluxe_langham_cityscape_king__RO_NR?token=76825b34-943a-4778-863a-6c08435fe754",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|deluxe|langham_cityscape|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|deluxe|langham_cityscape|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 4327500,
+        "price_total": 4327500,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4197600,
+        "net_price_total": 4197600,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4111100,
+        "net_price_total_with_bonus": 4111100,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214053_RO_NR",
+      "price_total": 4575900,
+      "rate_nightly": 4575900,
+      "room_name": "Executive Room, 1 King Bed",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 50,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Primary image",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b97edec2_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/19727217_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4afdbc12_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/f67426df_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214053_RO_NR?token=590b37e4-fc4d-4a17-b657-b30685656829",
+      "tax": 791746,
+      "tax_rate": 0.2290906523597252,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214053"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 7070408,
+        "strikethrough_price_total": 7070408,
+        "rate_nightly": 4575900,
+        "price_total": 4575900,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4438600,
+        "net_price_total": 4438600,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4347100,
+        "net_price_total_with_bonus": 4347100,
+        "wisata_point": 3,
+        "saving_pct": 0.36356580370688696
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_deluxe_langham_king__BB_NR",
+      "price_total": 4753400,
+      "rate_nightly": 4753400,
+      "room_name": "Deluxe Room, Langham, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_deluxe_langham_king__BB_NR?token=8c5f3cc0-e096-4785-8234-0d8598adba4f",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|deluxe|langham|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|deluxe|langham|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5195193,
+        "strikethrough_price_total": 5195193,
+        "rate_nightly": 4753400,
+        "price_total": 4753400,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4610700,
+        "net_price_total": 4610700,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4515700,
+        "net_price_total_with_bonus": 4515700,
+        "wisata_point": 3,
+        "saving_pct": 0.09529662890938616
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214047_RO_FC",
+      "price_total": 4852100,
+      "rate_nightly": 4852100,
+      "room_name": "Deluxe Room, 1 King Bed",
+      "room_available": null,
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 42,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214047_RO_FC?token=7885588d-8d8e-4bc9-b806-099433a88669",
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214047"
+      },
+      "v2_room_id": "314214047",
+      "v2_room_dict": {
+        "id": "314214047",
+        "name": "Deluxe Room, 1 King Bed",
+        "bed_group": "1 King Bed",
+        "view": "",
+        "size_sqm": 42,
+        "image_data": [
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_b.jpg"
+          }
+        ]
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5068066,
+        "strikethrough_price_total": 5068066,
+        "rate_nightly": 4852100,
+        "price_total": 4852100,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4706500,
+        "net_price_total": 4706500,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4609400,
+        "net_price_total_with_bonus": 4609400,
+        "wisata_point": 3,
+        "saving_pct": 0.052742762512898105
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_deluxe_langham_king__RO_FC",
+      "price_total": 4852100,
+      "rate_nightly": 4852100,
+      "room_name": "Deluxe Room, Langham, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_deluxe_langham_king__RO_FC?token=e8b17b5f-09b8-4fe6-b9a1-136de8060a1a",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|deluxe|langham|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|deluxe|langham|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5068066,
+        "strikethrough_price_total": 5068066,
+        "rate_nightly": 4852100,
+        "price_total": 4852100,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4706500,
+        "net_price_total": 4706500,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4609400,
+        "net_price_total_with_bonus": 4609400,
+        "wisata_point": 3,
+        "saving_pct": 0.052742762512898105
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214049_RO_FC",
+      "price_total": 4914400,
+      "rate_nightly": 4914400,
+      "room_name": "Deluxe Room, 1 King Bed (Skyline)",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 45,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214049_RO_FC?token=f743d93b-061e-4a1b-918a-734acfc212ed",
+      "tax": 850500,
+      "tax_rate": 0.22909084738293672,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214049"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5641155,
+        "strikethrough_price_total": 5641155,
+        "rate_nightly": 4914400,
+        "price_total": 4914400,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4766900,
+        "net_price_total": 4766900,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4668600,
+        "net_price_total_with_bonus": 4668600,
+        "wisata_point": 3,
+        "saving_pct": 0.13919107276639198
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_deluxe_langham_cityscape_king__BB_NR",
+      "price_total": 4953800,
+      "rate_nightly": 4953800,
+      "room_name": "Deluxe Room, Langham, Cityscape, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_deluxe_langham_cityscape_king__BB_NR?token=ea874532-70ea-4fa9-a932-9ab9827b00a0",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|deluxe|langham_cityscape|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|deluxe|langham_cityscape|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 4953800,
+        "price_total": 4953800,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4805100,
+        "net_price_total": 4805100,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4706100,
+        "net_price_total_with_bonus": 4706100,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_315454705_RO_FC",
+      "price_total": 5087900,
+      "rate_nightly": 5087900,
+      "room_name": "Deluxe Room, 1 King Bed (Cityscape)",
+      "room_available": null,
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 45,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_315454705_RO_FC?token=dd1c97d4-37fe-434e-8429-e1fa378643f8",
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "315454705"
+      },
+      "v2_room_id": "315454705",
+      "v2_room_dict": {
+        "id": "315454705",
+        "name": "Deluxe Room, 1 King Bed (Cityscape)",
+        "bed_group": "1 King Bed",
+        "view": "",
+        "size_sqm": 45,
+        "image_data": [
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+          }
+        ]
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5276072,
+        "strikethrough_price_total": 5276072,
+        "rate_nightly": 5087900,
+        "price_total": 5087900,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4935200,
+        "net_price_total": 4935200,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4833500,
+        "net_price_total_with_bonus": 4833500,
+        "wisata_point": 3,
+        "saving_pct": 0.04576818564733575
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_deluxe_langham_cityscape_king__RO_FC",
+      "price_total": 5087900,
+      "rate_nightly": 5087900,
+      "room_name": "Deluxe Room, Langham, Cityscape, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_deluxe_langham_cityscape_king__RO_FC?token=ee946c11-7893-482d-a1da-bd12e66fece1",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|deluxe|langham_cityscape|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|deluxe|langham_cityscape|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 5087900,
+        "price_total": 5087900,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4935200,
+        "net_price_total": 4935200,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4833500,
+        "net_price_total_with_bonus": 4833500,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214053_RO_FC",
+      "price_total": 5100900,
+      "rate_nightly": 5100900,
+      "room_name": "Executive Room, 1 King Bed",
+      "room_available": null,
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 50,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Primary image",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b97edec2_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/19727217_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4afdbc12_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/f67426df_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214053_RO_FC?token=9a72587c-9a47-41e4-a96e-b1e3983b1160",
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214053"
+      },
+      "v2_room_id": "314214053",
+      "v2_room_dict": {
+        "id": "314214053",
+        "name": "Executive Room, 1 King Bed",
+        "bed_group": "1 King Bed",
+        "view": "",
+        "size_sqm": 50,
+        "image_data": [
+          {
+            "caption": "Primary image",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b97edec2_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/19727217_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4afdbc12_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/f67426df_b.jpg"
+          },
+          {
+            "caption": "Executive lounge",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg"
+          },
+          {
+            "caption": "Executive lounge",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_b.jpg"
+          },
+          {
+            "caption": "Executive lounge",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_b.jpg"
+          },
+          {
+            "caption": "Executive lounge",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_b.jpg"
+          }
+        ]
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 6191974,
+        "strikethrough_price_total": 6191974,
+        "rate_nightly": 5100900,
+        "price_total": 5100900,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4947800,
+        "net_price_total": 4947800,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4845800,
+        "net_price_total_with_bonus": 4845800,
+        "wisata_point": 3,
+        "saving_pct": 0.18663762224027491
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214049_BB_NR",
+      "price_total": 5154300,
+      "rate_nightly": 5154300,
+      "room_name": "Deluxe Room, 1 King Bed (Skyline)",
+      "room_available": null,
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 45,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+        }
+      ],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214049_BB_NR?token=ca9eb587-fb60-4946-b3f6-fdf99697c64f",
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214049"
+      },
+      "v2_room_id": "314214049",
+      "v2_room_dict": {
+        "id": "314214049",
+        "name": "Deluxe Room, 1 King Bed (Skyline)",
+        "bed_group": "1 King Bed",
+        "view": "",
+        "size_sqm": 45,
+        "image_data": [
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+          }
+        ]
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 5154300,
+        "price_total": 5154300,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 4999600,
+        "net_price_total": 4999600,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 4896500,
+        "net_price_total_with_bonus": 4896500,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_executive_langham_king__RO_NR",
+      "price_total": 5265900,
+      "rate_nightly": 5265900,
+      "room_name": "Executive Room, Langham, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_executive_langham_king__RO_NR?token=f2ca2bd3-95d5-4c91-9efc-8dd1b4e85204",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|executive|langham|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|executive|langham|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 5265900,
+        "price_total": 5265900,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5107900,
+        "net_price_total": 5107900,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5002600,
+        "net_price_total_with_bonus": 5002600,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214047_BB_NR",
+      "price_total": 5350900,
+      "rate_nightly": 5350900,
+      "room_name": "Deluxe Room, 1 King Bed",
+      "room_available": null,
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 42,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_b.jpg"
+        }
+      ],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214047_BB_NR?token=6846634f-2833-4a39-837a-3acb626b7ae1",
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214047"
+      },
+      "v2_room_id": "314214047",
+      "v2_room_dict": {
+        "id": "314214047",
+        "name": "Deluxe Room, 1 King Bed",
+        "bed_group": "1 King Bed",
+        "view": "",
+        "size_sqm": 42,
+        "image_data": [
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_b.jpg"
+          }
+        ]
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 6542602,
+        "strikethrough_price_total": 6542602,
+        "rate_nightly": 5350900,
+        "price_total": 5350900,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5190300,
+        "net_price_total": 5190300,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5083300,
+        "net_price_total_with_bonus": 5083300,
+        "wisata_point": 3,
+        "saving_pct": 0.19257317158736087
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214047_BB_FC",
+      "price_total": 5579700,
+      "rate_nightly": 5579700,
+      "room_name": "Deluxe Room, 1 King Bed",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 42,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7bd592ce_b.jpg"
+        }
+      ],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214047_BB_FC?token=05918a05-c25d-4dcb-a665-00e91aeddf78",
+      "tax": 966000,
+      "tax_rate": 0.22909089098095722,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214047"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 7050155,
+        "strikethrough_price_total": 7050155,
+        "rate_nightly": 5579700,
+        "price_total": 5579700,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5412300,
+        "net_price_total": 5412300,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5300700,
+        "net_price_total_with_bonus": 5300700,
+        "wisata_point": 3,
+        "saving_pct": 0.21902339749444044
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_deluxe_langham_king__BB_FC",
+      "price_total": 5589000,
+      "rate_nightly": 5589000,
+      "room_name": "Deluxe Room, Langham, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_deluxe_langham_king__BB_FC?token=66685cd0-b4d5-4ad9-a53c-38de86473f41",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|deluxe|langham|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|deluxe|langham|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": 5838334,
+        "strikethrough_price_total": 5838334,
+        "rate_nightly": 5589000,
+        "price_total": 5589000,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5421300,
+        "net_price_total": 5421300,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5309500,
+        "net_price_total_with_bonus": 5309500,
+        "wisata_point": 3,
+        "saving_pct": 0.05281842669508562
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214053_BB_FC",
+      "price_total": 5635800,
+      "rate_nightly": 5635800,
+      "room_name": "Executive Room, 1 King Bed",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 50,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Primary image",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b97edec2_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/19727217_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4afdbc12_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/f67426df_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_b.jpg"
+        }
+      ],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214053_BB_FC?token=ff8426a6-ccf2-4baa-b28d-af3298496b74",
+      "tax": 1023952,
+      "tax_rate": 0.25200034651671943,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214053"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 6928877,
+        "strikethrough_price_total": 6928877,
+        "rate_nightly": 5635800,
+        "price_total": 5635800,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5466700,
+        "net_price_total": 5466700,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5354000,
+        "net_price_total_with_bonus": 5354000,
+        "wisata_point": 3,
+        "saving_pct": 0.1970306631141977
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214049_BB_FC",
+      "price_total": 5778800,
+      "rate_nightly": 5778800,
+      "room_name": "Deluxe Room, 1 King Bed (Skyline)",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 45,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+        }
+      ],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214049_BB_FC?token=3f3d7679-7c71-4be2-b86d-8b51be761674",
+      "tax": 1050000,
+      "tax_rate": 0.25200004032000645,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214049"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 7539557,
+        "strikethrough_price_total": 7539557,
+        "rate_nightly": 5778800,
+        "price_total": 5778800,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5605400,
+        "net_price_total": 5605400,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5489800,
+        "net_price_total_with_bonus": 5489800,
+        "wisata_point": 3,
+        "saving_pct": 0.2440067328880624
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214051_BB_NR",
+      "price_total": 5779800,
+      "rate_nightly": 5779800,
+      "room_name": "Deluxe Twin Room (Skyline)",
+      "room_available": null,
+      "room_bed_groups": "2 Twin Beds",
+      "room_size_sqm": null,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b3f3dfca_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/2ae336f4_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/d4016577_b.jpg"
+        }
+      ],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214051_BB_NR?token=4d45ebcb-6a43-43fa-9297-d394e53a7bac",
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214051"
+      },
+      "v2_room_id": "314214051",
+      "v2_room_dict": {
+        "id": "314214051",
+        "name": "Deluxe Twin Room (Skyline)",
+        "bed_group": "2 Twin Beds",
+        "view": "",
+        "size_sqm": null,
+        "image_data": [
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b3f3dfca_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/2ae336f4_b.jpg"
+          },
+          {
+            "caption": "Room",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7378h4573x10y0-bbd77bd0_b.jpg"
+          },
+          {
+            "caption": "Bathroom",
+            "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/d4016577_b.jpg"
+          }
+        ]
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 7082773,
+        "strikethrough_price_total": 7082773,
+        "rate_nightly": 5779800,
+        "price_total": 5779800,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5606400,
+        "net_price_total": 5606400,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5490800,
+        "net_price_total_with_bonus": 5490800,
+        "wisata_point": 3,
+        "saving_pct": 0.19435651512859853
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_315454705_BB_FC",
+      "price_total": 5821600,
+      "rate_nightly": 5821600,
+      "room_name": "Deluxe Room, 1 King Bed (Cityscape)",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 45,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e5a9a1d_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/895d8613_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/88d88cd2_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/7e4c7506_b.jpg"
+        }
+      ],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_315454705_BB_FC?token=e0d1dfdd-9359-4210-a5c1-7301e4b2efae",
+      "tax": 1008000,
+      "tax_rate": 0.2290909090909091,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "315454705"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 7294856,
+        "strikethrough_price_total": 7294856,
+        "rate_nightly": 5821600,
+        "price_total": 5821600,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5646900,
+        "net_price_total": 5646900,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5530500,
+        "net_price_total_with_bonus": 5530500,
+        "wisata_point": 3,
+        "saving_pct": 0.21237653052477967
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_deluxe_langham_cityscape_king__BB_FC",
+      "price_total": 5824800,
+      "rate_nightly": 5824800,
+      "room_name": "Deluxe Room, Langham, Cityscape, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_deluxe_langham_cityscape_king__BB_FC?token=cc11fed1-62d1-4bc7-91ea-3b04a64ac823",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|deluxe|langham_cityscape|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|deluxe|langham_cityscape|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 5824800,
+        "price_total": 5824800,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5650000,
+        "net_price_total": 5650000,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5533500,
+        "net_price_total_with_bonus": 5533500,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_executive_langham_king__BB_NR",
+      "price_total": 5892300,
+      "rate_nightly": 5892300,
+      "room_name": "Executive Room, Langham, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_executive_langham_king__BB_NR?token=b7a0ca77-f5db-4626-b145-5895141c201a",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|executive|langham|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|executive|langham|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 5892300,
+        "price_total": 5892300,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5715500,
+        "net_price_total": 5715500,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5597600,
+        "net_price_total_with_bonus": 5597600,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_315454707_RO_NR",
+      "price_total": 5991300,
+      "rate_nightly": 5991300,
+      "room_name": "Executive Room, 1 King Bed (Cityscape)",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 50,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Primary image",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/0ec82add_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/e0557842_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/771b028a_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_315454707_RO_NR?token=e304804f-020a-4d42-8f30-426d03ba594a",
+      "tax": 1037446,
+      "tax_rate": 0.2290907131617312,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "315454707"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 6877835,
+        "strikethrough_price_total": 6877835,
+        "rate_nightly": 5991300,
+        "price_total": 5991300,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 5811500,
+        "net_price_total": 5811500,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5691700,
+        "net_price_total_with_bonus": 5691700,
+        "wisata_point": 3,
+        "saving_pct": 0.13919179901600431
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_executive_langham_king__RO_FC",
+      "price_total": 6192000,
+      "rate_nightly": 6192000,
+      "room_name": "Executive Room, Langham, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_executive_langham_king__RO_FC?token=76760b03-613e-4a7a-9d3e-c881c25920ad",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|executive|langham|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|executive|langham|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 6192000,
+        "price_total": 6192000,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 6006200,
+        "net_price_total": 6006200,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 5882400,
+        "net_price_total_with_bonus": 5882400,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_club_deluxe_king__BB_FC",
+      "price_total": 6797600,
+      "rate_nightly": 6797600,
+      "room_name": "Club Deluxe Room, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_club_deluxe_king__BB_FC?token=8707850b-569e-41b6-bb63-1ff906ddfa42",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|club_deluxe|?|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|club_deluxe|?|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 6797600,
+        "price_total": 6797600,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 6593600,
+        "net_price_total": 6593600,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 6457700,
+        "net_price_total_with_bonus": 6457700,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_executive_langham_king__BB_FC",
+      "price_total": 6928900,
+      "rate_nightly": 6928900,
+      "room_name": "Executive Room, Langham, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_executive_langham_king__BB_FC?token=26fbcaa4-7e4c-4edd-a48c-d289ddad0905",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|executive|langham|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|executive|langham|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 6928900,
+        "price_total": 6928900,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 6721000,
+        "net_price_total": 6721000,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 6582400,
+        "net_price_total_with_bonus": 6582400,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_club_deluxe_cityscape_king__BB_FC",
+      "price_total": 7033400,
+      "rate_nightly": 7033400,
+      "room_name": "Club Deluxe Room, Cityscape, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "BB",
+      "meal_plan_description": "Free Breakfast",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_club_deluxe_cityscape_king__BB_FC?token=99b030c2-7724-4320-855e-672502f9c29f",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|club_deluxe|cityscape|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|club_deluxe|cityscape|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 7033400,
+        "price_total": 7033400,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 6822300,
+        "net_price_total": 6822300,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 6681700,
+        "net_price_total_with_bonus": 6681700,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_executive_langham_cityscape_king__RO_FC",
+      "price_total": 7135300,
+      "rate_nightly": 7135300,
+      "room_name": "Executive Room, Langham, Cityscape, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_executive_langham_cityscape_king__RO_FC?token=74c03f8c-4d20-4148-aa77-5a8d48f6cc42",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|executive|langham_cityscape|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|executive|langham_cityscape|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 7135300,
+        "price_total": 7135300,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 6921200,
+        "net_price_total": 6921200,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 6778500,
+        "net_price_total_with_bonus": 6778500,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_sky_club_deluxe_king__RO_FC",
+      "price_total": 7269200,
+      "rate_nightly": 7269200,
+      "room_name": "Sky Club Deluxe Room, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_sky_club_deluxe_king__RO_FC?token=281696d2-f158-4b64-80f4-1f1895d906d1",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|sky_club_deluxe|?|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|sky_club_deluxe|?|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 7269200,
+        "price_total": 7269200,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 7051100,
+        "net_price_total": 7051100,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 6905700,
+        "net_price_total_with_bonus": 6905700,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_315454707_RO_FC",
+      "price_total": 7485300,
+      "rate_nightly": 7485300,
+      "room_name": "Executive Room, 1 King Bed (Cityscape)",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 50,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Primary image",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/824ab5e0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/0ec82add_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4ea408d0_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/e0557842_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/771b028a_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8fc2778b_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/1d90b28e_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/8e63ed59_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_315454707_RO_FC?token=f01e4815-5ed3-4e5d-885d-2808089c8daf",
+      "tax": 1296809,
+      "tax_rate": 0.22909095791260156,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "315454707"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 8593536,
+        "strikethrough_price_total": 8593536,
+        "rate_nightly": 7485300,
+        "price_total": 7485300,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 7260700,
+        "net_price_total": 7260700,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 7111000,
+        "net_price_total_with_bonus": 7111000,
+        "wisata_point": 3,
+        "saving_pct": 0.13919092488508533
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_room_club_executive_king__RO_FC",
+      "price_total": 8137400,
+      "rate_nightly": 8137400,
+      "room_name": "Club Executive Room, King",
+      "room_available": null,
+      "room_bed_groups": "",
+      "room_size_sqm": "",
+      "room_views": "",
+      "room_images": [],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "FC",
+      "cancel_policy_deadline": "2024-06-22",
+      "cancel_policy_description": "Free cancellation before 22 Jun 2024",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_room_club_executive_king__RO_FC?token=d245a9fc-e06c-41b0-820a-a076bd81131c",
+      "room_data": {
+        "is_mapped": false,
+        "is_decoded": false,
+        "label_base": "room|club_executive|?|?|king|?",
+        "label_base_leftover": "",
+        "id": null
+      },
+      "v2_room_id": "room|club_executive|?|?|king|?|",
+      "v2_room_dict": null,
+      "pricing_data": {
+        "strikethrough_rate_nightly": null,
+        "strikethrough_price_total": null,
+        "rate_nightly": 8137400,
+        "price_total": 8137400,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 7893200,
+        "net_price_total": 7893200,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 7730500,
+        "net_price_total_with_bonus": 7730500,
+        "wisata_point": 3,
+        "saving_pct": 0
+      }
+    },
+    {
+      "offer_id": "9001948244_20240625_20240626_2_1_314214054_RO_NR",
+      "price_total": 15596100,
+      "rate_nightly": 15596100,
+      "room_name": "Suite, 1 Bedroom (Langham)",
+      "room_available": "8",
+      "room_bed_groups": "1 King Bed",
+      "room_size_sqm": 109,
+      "room_views": "",
+      "room_images": [
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b82524c9_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/9c1100a2_b.jpg"
+        },
+        {
+          "caption": "Room",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/w7047h4027x0y0-8a1e75e4_b.jpg"
+        },
+        {
+          "caption": "Bathroom",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/4c3a2246_b.jpg"
+        },
+        {
+          "caption": "Executive lounge",
+          "size_sm": "https://i.travelapi.com/lodging/68000000/67200000/67196500/67196407/b1949ad3_b.jpg"
+        }
+      ],
+      "meal_plan_code": "RO",
+      "meal_plan_description": "",
+      "cancel_policy_code": "NR",
+      "cancel_policy_deadline": "NR",
+      "cancel_policy_description": "Non-refundable",
+      "price_check_href": "/stay/price-check/9001948244_20240625_20240626_2_1_314214054_RO_NR?token=39dc4158-2faf-4b7c-82e9-f4c50d560bac",
+      "tax": 2704800,
+      "tax_rate": 0.2290909026230688,
+      "room_data": {
+        "is_mapped": true,
+        "is_decoded": false,
+        "id": "314214054"
+      },
+      "pricing_data": {
+        "strikethrough_rate_nightly": 15773748,
+        "strikethrough_price_total": 15773748,
+        "rate_nightly": 15596100,
+        "price_total": 15596100,
+        "cashback_rate": 0.03,
+        "cashback_pct": 0.03,
+        "net_rate_nightly": 15128200,
+        "net_price_total": 15128200,
+        "bonus_cashback_rate": 0.02,
+        "bonus_cashback_pct": 0.02,
+        "net_rate_nightly_with_bonus": 14816200,
+        "net_price_total_with_bonus": 14816200,
+        "wisata_point": 3,
+        "saving_pct": 0.021279195530000232
+      }
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 <script setup>
 import RoomCard from "../components/room-card.vue";
+// import hotelDetails from "../source/hotel-data.json";
 </script>
 
 <template>
@@ -7,5 +8,6 @@ import RoomCard from "../components/room-card.vue";
     <div>This is hotel details</div>
 
     <div><RoomCard /></div>
+    <!-- <div>{{ JSON.stringify(hotelDetails) }}</div> -->
   </div>
 </template>
