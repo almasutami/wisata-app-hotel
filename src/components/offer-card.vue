@@ -9,6 +9,7 @@ import {
   mdiCoffee,
   mdiCreditCardOffOutline,
   mdiCreditCardCheckOutline,
+  mdiStar,
 } from "@mdi/js";
 
 const calculateDiscount = (price, strikethroughPrice) => {
@@ -93,7 +94,10 @@ const calculateDiscount = (price, strikethroughPrice) => {
       </div>
       <div class="book-group">
         <button class="button">Book Now</button>
-        <div>Collect {{ props?.offer?.pricing_data?.wisata_point }} points</div>
+        <div class="points">
+          <svg-icon type="mdi" class="mdi sm" :path="mdiStar"></svg-icon>
+          Collect {{ props?.offer?.pricing_data?.wisata_point }} points
+        </div>
       </div>
     </div>
   </div>
@@ -149,6 +153,16 @@ const calculateDiscount = (price, strikethroughPrice) => {
   color: rgb(255, 40, 40);
 }
 
+.points {
+  color: #007bff;
+  font-size: 12px;
+  font-weight: 500;
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+}
+
 .pricing-group {
   display: flex;
   flex-direction: column;
@@ -182,6 +196,10 @@ const calculateDiscount = (price, strikethroughPrice) => {
 .mdi {
   height: 20px;
   width: 20px;
+}
+.mdi.sm {
+  height: 15px;
+  width: 15px;
 }
 
 @media only screen and (max-width: 600px) {
