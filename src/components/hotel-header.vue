@@ -182,7 +182,7 @@ const props = defineProps({
   }
   .hotel-title-small {
     font-weight: 500 !important;
-    padding: 4px 12px;
+    padding: 4px 16px;
     font-size: 16px !important;
   }
   .hotel-header-container-details {

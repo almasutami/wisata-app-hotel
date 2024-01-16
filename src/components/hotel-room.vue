@@ -89,9 +89,4 @@ const onFilter = (selectedFilter) => {
 .room-card-container {
   padding: 16px 0;
 }
-@media only screen and (max-width: 600px) {
-  .hotel-room-container {
-    padding: 4px 8px;
-  }
-}
 </style>

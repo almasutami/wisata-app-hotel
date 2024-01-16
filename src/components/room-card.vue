@@ -104,7 +104,7 @@ import { mdiBedKingOutline, mdiImageSizeSelectSmall } from "@mdi/js";
   justify-content: space-between;
   padding: 16px;
   align-items: start;
-  width: 90%;
+  width: 94%;
 }
 
 .room-name {
@@ -187,10 +187,18 @@ import { mdiBedKingOutline, mdiImageSizeSelectSmall } from "@mdi/js";
 
 @media only screen and (max-width: 600px) {
   .room-container {
+    margin-bottom: 40px;
+    display: flex;
     flex-direction: column;
+    justify-content: center;
+    gap: 16px;
   }
   .room-images {
     width: 100%;
+    height: 33%;
+    gap: 4px;
+    display: flex;
+    flex-direction: column;
   }
   .room-name {
     font-size: 16px;
