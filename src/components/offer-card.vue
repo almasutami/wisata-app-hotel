@@ -10,6 +10,10 @@ import {
   mdiCreditCardOffOutline,
   mdiCreditCardCheckOutline,
 } from "@mdi/js";
+
+const calculateDiscount = (price, strikethroughPrice) => {
+  return Math.round(((strikethroughPrice - price) / strikethroughPrice) * 100);
+};
 </script>
 
 <template>
@@ -39,9 +43,47 @@ import {
         ></svg-icon>
         <div>Non Refundable</div>
       </div>
-      <div>Rp {{ props.offer?.price_total }} / night *</div>
-      <div>after tax & fees</div>
-      <div>*Member-only price, valid in app only</div>
+      <div class="pricing-group">
+        <div
+          v-if="
+            calculateDiscount(
+              props.offer?.price_total,
+              props.offer?.pricing_data?.strikethrough_price_total
+            ) &&
+            calculateDiscount(
+              props.offer?.price_total,
+              props.offer?.pricing_data?.strikethrough_price_total
+            ) > 0
+          "
+        >
+          <span class="pricing-saving"
+            >SAVE
+            {{
+              calculateDiscount(
+                props.offer?.price_total,
+                props.offer?.pricing_data?.strikethrough_price_total
+              )
+            }}% TODAY!</span
+          >
+        </div>
+        <div class="pricing-strikethrough">
+          Rp
+          {{
+            props.offer?.pricing_data?.strikethrough_price_total?.toLocaleString(
+              "en-US"
+            )
+          }}
+        </div>
+        <div class="pricing-real">
+          Rp
+          <span class="pricing-promotion">{{
+            props.offer?.price_total?.toLocaleString("en-US")
+          }}</span>
+          / night *
+        </div>
+        <div>after tax & fees</div>
+        <div>*Member-only price, valid in app only</div>
+      </div>
     </div>
     <div class="right-container">
       <div class="icon-group">
@@ -107,6 +149,36 @@ import {
   color: rgb(255, 40, 40);
 }
 
+.pricing-group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 16px 0px 8px 0;
+  color: rgba(0, 0, 0, 0.54);
+  font-size: 12px;
+}
+
+.pricing-saving {
+  color: white;
+  font-size: 12px;
+  background-color: rgb(255, 40, 40);
+  padding: 4px 8px;
+  font-weight: 500;
+  border-radius: 2px;
+}
+
+.pricing-promotion {
+  font-size: 18px;
+  font-weight: 500;
+}
+.pricing-real {
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.pricing-strikethrough {
+  font-size: 14px;
+  text-decoration: line-through;
+}
 .mdi {
   height: 20px;
   width: 20px;
