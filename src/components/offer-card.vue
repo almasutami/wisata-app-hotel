@@ -10,6 +10,9 @@ import {
   mdiCreditCardOffOutline,
   mdiCreditCardCheckOutline,
   mdiStar,
+  mdiContentCopy,
+  mdiFitToScreenOutline,
+  mdiDotsHorizontal,
 } from "@mdi/js";
 
 const calculateDiscount = (price, strikethroughPrice) => {
@@ -88,9 +91,13 @@ const calculateDiscount = (price, strikethroughPrice) => {
     </div>
     <div class="right-container">
       <div class="icon-group">
-        <font-awesome-icon icon="fa-regular fa-copy" size="xl" />
-        <font-awesome-icon icon="fa-solid fa-vector-square" size="xl" />
-        <font-awesome-icon icon="fa-solid fa-ellipsis" size="xl" />
+        <svg-icon type="mdi" class="mdi" :path="mdiContentCopy"></svg-icon>
+        <svg-icon
+          type="mdi"
+          class="mdi"
+          :path="mdiFitToScreenOutline"
+        ></svg-icon>
+        <svg-icon type="mdi" class="mdi" :path="mdiDotsHorizontal"></svg-icon>
       </div>
       <div class="book-group">
         <button class="button">Book Now</button>

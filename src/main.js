@@ -8,18 +8,12 @@ import {
   faCreditCard,
   faFilter,
   faUtensils,
-  faVectorSquare,
-  faEllipsis,
 } from "@fortawesome/free-solid-svg-icons";
-import { faCopy } from "@fortawesome/free-regular-svg-icons";
 import "@mdi/font/css/materialdesignicons.min.css";
 
 library.add(faSearch);
 library.add(faFilter);
 library.add(faCreditCard);
 library.add(faUtensils);
-library.add(faCopy);
-library.add(faVectorSquare);
-library.add(faEllipsis);
 
 createApp(App).component("font-awesome-icon", FontAwesomeIcon).mount("#app");
