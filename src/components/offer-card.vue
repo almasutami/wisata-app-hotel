@@ -3,24 +3,41 @@ import { defineProps } from "vue";
 const props = defineProps({
   offer: Object,
 });
+import SvgIcon from "@jamescoyle/vue-icon";
+import {
+  mdiCoffeeOffOutline,
+  mdiCoffee,
+  mdiCreditCardOffOutline,
+  mdiCreditCardCheckOutline,
+} from "@mdi/js";
 </script>
 
 <template>
   <div class="offer-container">
     <div class="left-container">
-      <div>
-        {{
-          props.offer?.meal_plan_code === "BB"
-            ? "Free Breakfast"
-            : "Without Breakfast"
-        }}
+      <div v-if="props.offer?.meal_plan_code === 'BB'" class="offer green">
+        <svg-icon type="mdi" class="mdi" :path="mdiCoffee"></svg-icon>
+        <div>Free Breakfast</div>
       </div>
-      <div>
-        {{
-          props.offer?.cancel_policy_code === "FC"
-            ? "Free Cancellation"
-            : "Non Refundable"
-        }}
+      <div v-else class="offer">
+        <svg-icon type="mdi" class="mdi" :path="mdiCoffeeOffOutline"></svg-icon>
+        <div>Without Breakfast</div>
+      </div>
+      <div v-if="props.offer?.cancel_policy_code === 'FC'" class="offer green">
+        <svg-icon
+          type="mdi"
+          class="mdi"
+          :path="mdiCreditCardCheckOutline"
+        ></svg-icon>
+        <div>{{ offer?.cancel_policy_description }}</div>
+      </div>
+      <div v-else class="offer red">
+        <svg-icon
+          type="mdi"
+          class="mdi"
+          :path="mdiCreditCardOffOutline"
+        ></svg-icon>
+        <div>Non Refundable</div>
       </div>
       <div>Rp {{ props.offer?.price_total }} / night *</div>
       <div>after tax & fees</div>
@@ -73,6 +90,28 @@ const props = defineProps({
   align-items: center;
   gap: 4px;
 }
+
+.offer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.54);
+}
+.offer.green {
+  color: rgb(0, 188, 0);
+}
+.offer.red {
+  color: rgb(255, 40, 40);
+}
+
+.mdi {
+  height: 20px;
+  width: 20px;
+}
+
 @media only screen and (max-width: 600px) {
   .offer-container {
     font-size: 12px;

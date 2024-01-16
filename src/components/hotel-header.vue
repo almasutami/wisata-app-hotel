@@ -60,7 +60,7 @@ const props = defineProps({
 }
 
 .photo-container {
-  width: 33.3%;
+  width: 32%;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -69,7 +69,6 @@ const props = defineProps({
 }
 
 .hotel-primary-photo {
-  padding: 0 16px 0 16px;
   width: 168px;
   height: 168px;
   object-fit: cover;
@@ -98,7 +97,7 @@ const props = defineProps({
 }
 .hotel-title-desktop {
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 2rem;
 }
 

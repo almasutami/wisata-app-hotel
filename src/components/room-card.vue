@@ -4,6 +4,8 @@ const props = defineProps({
   roomData: Object,
 });
 import OfferCard from "../components/offer-card.vue";
+import SvgIcon from "@jamescoyle/vue-icon";
+import { mdiBedKingOutline, mdiImageSizeSelectSmall } from "@mdi/js";
 </script>
 
 <template>
@@ -42,14 +44,20 @@ import OfferCard from "../components/offer-card.vue";
           </div>
           <div class="room-info-group">
             <div class="icon-text">
-              <font-awesome-icon icon="fa-solid fa-bed" size="sm" />
+              <svg-icon
+                type="mdi"
+                class="mdi"
+                :path="mdiBedKingOutline"
+              ></svg-icon>
               <div>{{ props.roomData?.offers?.[0]?.room_bed_groups }}</div>
             </div>
             <div class="icon-text">
-              <div>
-                <font-awesome-icon icon="fa-regular fa-square" size="sm" />
-                {{ props.roomData?.offers?.[0]?.room_size_sqm }} m²
-              </div>
+              <svg-icon
+                type="mdi"
+                class="mdi"
+                :path="mdiImageSizeSelectSmall"
+              ></svg-icon>
+              {{ props.roomData?.offers?.[0]?.room_size_sqm }} m²
             </div>
           </div>
         </div>
@@ -169,6 +177,12 @@ import OfferCard from "../components/offer-card.vue";
   flex: wrap;
   justify-content: flex-start;
   gap: 16px;
+}
+
+.mdi {
+  height: 20px;
+  width: 20px;
+  color: rgba(0, 0, 0, 0.54);
 }
 
 @media only screen and (max-width: 600px) {

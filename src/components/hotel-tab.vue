@@ -1,18 +1,20 @@
 <script setup>
 import { ref } from "vue";
+import SvgIcon from "@jamescoyle/vue-icon";
+import { mdiGrid, mdiInformationOutline, mdiTagOutline } from "@mdi/js";
 
 const tabs = [
   {
     name: "DEALS",
-    icon: "fa-solid fa-tag",
+    icon: mdiTagOutline,
   },
   {
     name: "PHOTOS",
-    icon: "fa-solid fa-table-cells",
+    icon: mdiGrid,
   },
   {
     name: "INFO",
-    icon: "fa-solid fa-info-circle",
+    icon: mdiInformationOutline,
   },
 ];
 const selectedIndex = ref(0);
@@ -32,11 +34,8 @@ const selectTab = (index) => {
         :class="{ active: selectedIndex === index }"
       >
         <div class="tab">
-          <font-awesome-icon
-            :icon="tab?.icon"
-            size="xl"
-            class="search-icon"
-          />{{ tab?.name }}
+          <svg-icon type="mdi" class="mdi" :path="tab?.icon"></svg-icon
+          >{{ tab?.name }}
         </div>
       </div>
     </div>
@@ -57,7 +56,7 @@ const selectTab = (index) => {
   padding-left: 12px;
   padding-right: 12px;
   font-weight: 500 !important;
-  gap: 8px;
+  gap: 12px;
   font-family: Roboto, BlinkMacSystemFont, sans-serif !important;
 }
 
@@ -65,8 +64,9 @@ const selectTab = (index) => {
   cursor: pointer;
   z-index: 2;
   box-shadow: 0 -1px 0 #e0e0e0;
-  padding: 8px 16px;
+  padding: 12px 24px;
   user-select: none;
+  color: rgba(0, 0, 0, 0.54);
   transition: box-shadow 0.3s ease-in-out;
 }
 
@@ -77,9 +77,14 @@ const selectTab = (index) => {
   align-items: center;
 }
 .tab-menu > div.active {
-  color: #007bff;
+  color: #007bff !important;
   box-shadow: none;
   border-top: #007bff 2px solid;
   z-index: 3;
+}
+
+.mdi {
+  height: 18px;
+  width: 18px;
 }
 </style>

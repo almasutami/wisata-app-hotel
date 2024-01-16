@@ -60,15 +60,16 @@ const selectFilter = (index) => {
 <style scoped>
 .filter-container {
   font-size: 14px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
 
 .filter-menu {
   display: flex;
   justify-content: center;
-  padding-left: 12px;
-  padding-right: 12px;
-  padding-top: 12px;
-  padding-bottom: 12px;
+  padding: 4px 8px;
   gap: 8px;
   min-width: 200px;
 }
